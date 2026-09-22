@@ -1,0 +1,2893 @@
+{
+  "bloom": {
+    "strength": 1.9,
+    "radius": 0.9,
+    "threshold": 0.15
+  },
+  "physics": {
+    "repel": 345,
+    "linkDistance": 20,
+    "linkStrength": 1.4,
+    "centerPull": 0.02,
+    "flatten": 0,
+    "coreGravity": 0.195,
+    "spiral": 0.07
+  },
+  "look": {
+    "nodeSize": 1.35,
+    "linkOpacity": 0.07,
+    "linkCurve": 0.6,
+    "twinkle": 2,
+    "sizeBy": "degree"
+  },
+  "space": {
+    "nebula": 0.55,
+    "fieldStars": 0,
+    "clusterClouds": 0
+  },
+  "cruise": true,
+  "cruiseSpeed": 2.9,
+  "showUnresolved": false,
+  "showOrphans": true,
+  "showTags": false,
+  "tagLens": null,
+  "colorByTag": false,
+  "showTagHubs": false,
+  "tagHubLimit": 20,
+  "hiddenFolders": [
+    "ShowsMovies",
+    "Pages",
+    "Games"
+  ],
+  "filterQuery": "",
+  "showGhostEdges": false,
+  "showStarfield": false,
+  "colorTheme": "matrix",
+  "qualityOverride": "auto",
+  "preset": "deep-space",
+  "activePreset": "minimal",
+  "customPresets": [],
+  "language": "auto",
+  "panelSections": {
+    "filter": true,
+    "nav": true,
+    "look": true,
+    "space": true,
+    "bloom": true,
+    "physics": true,
+    "tags": false,
+    "advanced": true
+  },
+  "panelWidth": 298,
+  "hintsSeen": false,
+  "selectionDepth": 1,
+  "tour": {
+    "speed": 1
+  },
+  "colorGroups": [
+    {
+      "query": "[\"type\":\"SongArist\"]",
+      "color": "#e05252"
+    },
+    {
+      "query": "[\"type\":\"Song\"]",
+      "color": "#e0b152"
+    },
+    {
+      "query": "[\"type\":\"Weblink\"]",
+      "color": "#b1e052"
+    }
+  ],
+  "positionCache": {
+    "README.md": [
+      268.9,
+      -481.3,
+      -679.5
+    ],
+    "Weblinks/瞬き (Mabataki) - back number (cover ft @PanVTuber).md": [
+      -797.2,
+      -28.8,
+      395.6
+    ],
+    "Weblinks/グッバイ宣言 (Goodbye Declaration)┃Cover by Kamiya & Pan.md": [
+      176.2,
+      -475.3,
+      -846.3
+    ],
+    "Weblinks/〖Cover〗Telecaster B-Boy  テレキャスタービーボーイ 【Pan VTuber】.md": [
+      154.2,
+      1010.5,
+      -299.5
+    ],
+    "Weblinks/〖Cover〗Envy Baby  エンヴィーベイビー 【 Pan VTuber】.md": [
+      -521.3,
+      -560.7,
+      523.9
+    ],
+    "Weblinks/〖Cover〗MIRA  小春六花【 Pan VTuber】.md": [
+      -511.8,
+      -702.3,
+      398.5
+    ],
+    "Weblinks/【TAGEN】🥖 Chill Karaoke + Q&A 【Pan VTuber】.md": [
+      116,
+      223.2,
+      428.7
+    ],
+    "Weblinks/【TAGEN】 🥖 Karaoke Stream 🎶【Pan VTuber】.md": [
+      286.2,
+      -77.6,
+      318.9
+    ],
+    "Weblinks/【Pan Vtuber】Oh! Asmara - Kobo Kanaeru【cover】.md": [
+      -422.3,
+      -407.2,
+      -461.8
+    ],
+    "Weblinks/【SCUFF KARAOKE】ONLY TAGALOG SONG!!!.md": [
+      -46.6,
+      111.3,
+      -116.2
+    ],
+    "Weblinks/【OSHI CON PERFORMANCE】 🥖 WE SINGING BEER ON THIS ONE 🍻.md": [
+      -450.2,
+      -165.7,
+      -188.4
+    ],
+    "Weblinks/【ORIGINAL SONG】 Welcome to The Bakery! 【Pan VTuber】.md": [
+      -448.2,
+      180.3,
+      -774.3
+    ],
+    "Weblinks/【OFF COLLAB KARAOKE】 🥖 I'm singing with @KitsuiAkira !! 🤎【TAGEN】.md": [
+      150.7,
+      -85.1,
+      129.9
+    ],
+    "Weblinks/【MV】Star Walkin - Pan & Xin Asuwa.md": [
+      -615.1,
+      387.8,
+      -680.9
+    ],
+    "Weblinks/【Kiichan・Leon・Pan】First Love Academy, School of True Love【cover】.md": [
+      -620.3,
+      -162,
+      645.9
+    ],
+    "Weblinks/【KARAOKE】🥖 STEAMY BATHROOM KARAOKE.md": [
+      38,
+      -358.8,
+      330.1
+    ],
+    "Weblinks/【KARAOKE】 🥖 WOAH!! MORE BREAD SINGING!!!!.md": [
+      -105.6,
+      111.5,
+      50.4
+    ],
+    "Weblinks/【KARAOKE】 🥖 WHAT DO WE SING THIS MONTH 🤔.md": [
+      160.8,
+      198.9,
+      242
+    ],
+    "Weblinks/【KARAOKE】 🥖 MORE SINGING MORE FUN !!!.md": [
+      212.6,
+      299.4,
+      -245.2
+    ],
+    "Weblinks/【KARAOKE】 🥖 ITS NOT BIRTHDAY WITHOUT THE MIC 🎤.md": [
+      -264.5,
+      212.7,
+      72.4
+    ],
+    "Weblinks/【KARAOKE STREAM】 🥖 Spending My Last 2025 With You 🤎【TAGEN】.md": [
+      -104.9,
+      446.3,
+      302.1
+    ],
+    "Weblinks/【KARAOKE】 🥖 IS IT TIME FOR SINGING 🎤.md": [
+      -110,
+      457.1,
+      -93
+    ],
+    "Weblinks/【KARAOKE STREAM】 🥖 Horay! More singing! Some English this time maybe 🤎【TAGEN.md": [
+      -101.5,
+      18.5,
+      385.7
+    ],
+    "Weblinks/【KARAOKE RELAY】PAN'S BIRTHDAY SINGATHON 2026 🥖.md": [
+      -115.6,
+      -455.1,
+      -248.7
+    ],
+    "Weblinks/【KARAOKE RELAY】 🥖 SINGING OUR HEARTS OUT TOGETHER!! 🤎.md": [
+      270.5,
+      65.9,
+      -507.2
+    ],
+    "Weblinks/【KARAOKE RELAY】 🥖 SOMETHING DIFFERENT ⛅.md": [
+      -245.7,
+      -420.2,
+      108.7
+    ],
+    "Weblinks/【cover】Hope in the dark  LUXIEM (Pan, Kaheru, & jiakaira).md": [
+      639.8,
+      -337.4,
+      -587.6
+    ],
+    "Weblinks/【cover】Breaking Dimensions ft Kaheru, Kiichan, Pan, Eggy, Spica.md": [
+      -110.9,
+      -225.5,
+      -698
+    ],
+    "Weblinks/yung kai - blue (cover by Pan).md": [
+      448,
+      -172.1,
+      98.4
+    ],
+    "Weblinks/tsundere rap (vid).md": [
+      -229.2,
+      633.6,
+      -296.2
+    ],
+    "Weblinks/ᴘʜᴏɴʏ (short).md": [
+      -305,
+      -903.4,
+      -56
+    ],
+    "Weblinks/Tot Musica  Ado ( 歌ってみた) by Pan.md": [
+      209.2,
+      -88.4,
+      -786.6
+    ],
+    "Weblinks/TABUNYOASOBI but in Filipino 🇵🇭.md": [
+      -469.8,
+      -55.7,
+      25.2
+    ],
+    "Weblinks/TAKEDOWN Cover  Kira Omori feat Kiichan & Pan - KPop Demon Hunters.md": [
+      -880.2,
+      -248.9,
+      -212.8
+    ],
+    "Weblinks/sana ako na lang (cover by pan).md": [
+      837.7,
+      -354.1,
+      -109.9
+    ],
+    "Weblinks/Sugar Song Bitter Step (Acoustic ver) by Pan.md": [
+      -768.9,
+      -489.7,
+      230.1
+    ],
+    "Weblinks/Propose (short).md": [
+      694.4,
+      -444.4,
+      -278.1
+    ],
+    "Weblinks/Ride on Time (short).md": [
+      -808.8,
+      202.4,
+      -436.7
+    ],
+    "Weblinks/Propose  プロポーズ (Cover by Pan).md": [
+      686.4,
+      -391.8,
+      -304.4
+    ],
+    "Weblinks/Pasilyo - SunKissed Lola (Cover by Pan).md": [
+      166.4,
+      167.2,
+      84.3
+    ],
+    "Weblinks/Pano - Zack Tabudlo (Cover by Pan).md": [
+      -303.5,
+      104.6,
+      266.8
+    ],
+    "Weblinks/Ochame Kinou - VKrazzy Cover 【歌ってみた】.md": [
+      -852.9,
+      70.8,
+      121.5
+    ],
+    "Weblinks/My Clematis [ALIEN STAGE]  Cover by Kiichan & @PanVTuber.md": [
+      416.3,
+      -323.2,
+      126
+    ],
+    "Weblinks/Music Box of Fate - Ironmouse (Cover by Pan).md": [
+      386.3,
+      -303.7,
+      -64.6
+    ],
+    "Weblinks/Music Box of Fate (short).md": [
+      366.8,
+      -341.1,
+      -44.4
+    ],
+    "Weblinks/Mr Music - VKrazzy Cover 【歌ってみた】.md": [
+      -843.9,
+      345.7,
+      277
+    ],
+    "Weblinks/Misteryoso - Cup of Joe (Cover by Pan).md": [
+      -306,
+      252.2,
+      -137
+    ],
+    "Weblinks/MINISKIRT - Cover by Pan & @KureijiOllie.md": [
+      -493.6,
+      49.2,
+      -130.8
+    ],
+    "Weblinks/Meow for me 😼  (Cry for me).md": [
+      506,
+      -465,
+      -165.6
+    ],
+    "Weblinks/KARAOKE  MORE FILIPINO SINGING ！！.md": [
+      242,
+      301.4,
+      233.4
+    ],
+    "Weblinks/Jane Doe - covered by Jurard T Rexford and Pan the Bread.md": [
+      346.9,
+      -770.5,
+      -390.6
+    ],
+    "Weblinks/KARAOKE  100K CELEBRATION ！！.md": [
+      233.3,
+      349.4,
+      37
+    ],
+    "Weblinks/III x Pan & Kuri (Cover)₊˚⊹♡.md": [
+      -346.4,
+      -277.2,
+      -334.6
+    ],
+    "Weblinks/How It's Done by Pan (Tagalog Ver) - Kpop Demon Hunters.md": [
+      -693.8,
+      -269.2,
+      -164.6
+    ],
+    "Weblinks/How It's Done (Tagalog Ver)  Huntrix  Kpop Demon Hunters.md": [
+      -700.5,
+      -218.9,
+      -147.5
+    ],
+    "Weblinks/HERE AT SM WE GOT IT ALL.md": [
+      -99.4,
+      311.2,
+      -56.1
+    ],
+    "Weblinks/Driving In My Car with Jollibee by Pan.md": [
+      236.8,
+      -905.6,
+      74.5
+    ],
+    "Weblinks/CHECK - BBNO$ (Cover by Pan & @BanzoinHakka ).md": [
+      497,
+      -828,
+      46
+    ],
+    "Weblinks/Bread Booty Shorts.md": [
+      -779.3,
+      515.8,
+      -303.2
+    ],
+    "Weblinks/(Filipino Cover) Tabun たぶんYOASOBI by Pan.md": [
+      -481.9,
+      -27.3,
+      9.5
+    ],
+    "Songs/’Di Na Muli.md": [
+      -172.7,
+      223.2,
+      201.1
+    ],
+    "Songs/Zombie.md": [
+      -129.8,
+      578.5,
+      280
+    ],
+    "Songs/Your Idol.md": [
+      -524.9,
+      -135,
+      -202.7
+    ],
+    "Songs/Young Girl A.md": [
+      -30,
+      -456.3,
+      -293
+    ],
+    "Songs/Yakap sa Dilim.md": [
+      -61.1,
+      85.6,
+      -16
+    ],
+    "Songs/Welcome to The Bakery!.md": [
+      -466.7,
+      149.9,
+      -757.5
+    ],
+    "Songs/Wag Na Wag Mong Sasabihin.md": [
+      311.4,
+      328.6,
+      -312.2
+    ],
+    "Songs/We Ride.md": [
+      -25.4,
+      -506.5,
+      -242.3
+    ],
+    "Songs/Watame's Lullaby.md": [
+      399.7,
+      -84.4,
+      382.8
+    ],
+    "Songs/Villain.md": [
+      -3.6,
+      -430.8,
+      284.9
+    ],
+    "Songs/Uhaw.md": [
+      -153.9,
+      -32.8,
+      339.6
+    ],
+    "Songs/Tsundere Rap.md": [
+      -206.2,
+      575.2,
+      -241.4
+    ],
+    "Songs/Touch by Touch.md": [
+      -207.6,
+      418.9,
+      79.3
+    ],
+    "Songs/Totoy Bibbo.md": [
+      -248.9,
+      383.4,
+      190.3
+    ],
+    "Songs/Total Eclipse of the Heart.md": [
+      -60.9,
+      520.3,
+      409.3
+    ],
+    "Songs/Tot Musica.md": [
+      217.4,
+      -71.8,
+      -738.5
+    ],
+    "Songs/Torete.md": [
+      -26.8,
+      315.6,
+      107.3
+    ],
+    "Songs/Titibo-tibo.md": [
+      83.3,
+      124.8,
+      141.4
+    ],
+    "Songs/The Rumbling.md": [
+      274.8,
+      110.1,
+      -605
+    ],
+    "Songs/The Man Who Can’t Be Moved.md": [
+      -400.6,
+      205.4,
+      140.7
+    ],
+    "Songs/Tetoris.md": [
+      338.7,
+      119.8,
+      -504.5
+    ],
+    "Songs/Telephone.md": [
+      -9.8,
+      -417.5,
+      -205.7
+    ],
+    "Songs/Telecaster B-Boy.md": [
+      149.2,
+      1004.4,
+      -338.3
+    ],
+    "Songs/Teach Me How to Dougie.md": [
+      -466.6,
+      -163.5,
+      -260.1
+    ],
+    "Songs/Takedown.md": [
+      -833.8,
+      -250.7,
+      -201.6
+    ],
+    "Songs/Take Me Home, Country Roads.md": [
+      168.9,
+      203.8,
+      566.4
+    ],
+    "Songs/Tadhana.md": [
+      -14.7,
+      -156.4,
+      108.5
+    ],
+    "Songs/Tabun.md": [
+      -404.5,
+      -8.9,
+      5.7
+    ],
+    "Songs/Sway.md": [
+      -43.4,
+      -286.8,
+      102.3
+    ],
+    "Songs/Super Idol.md": [
+      60.6,
+      -474.2,
+      334.9
+    ],
+    "Songs/Sugar Song Bitter Step.md": [
+      -755.3,
+      -523.5,
+      213.9
+    ],
+    "Songs/Sundo.md": [
+      -88.5,
+      567,
+      -170.4
+    ],
+    "Songs/Sunday Morning.md": [
+      -133.7,
+      -273,
+      311.1
+    ],
+    "Songs/Sun & Moon.md": [
+      -12.9,
+      48.7,
+      -294.2
+    ],
+    "Songs/STAR WALKIN'.md": [
+      -587.8,
+      413.5,
+      -668
+    ],
+    "Songs/Still Into You.md": [
+      39.4,
+      -464.5,
+      394.4
+    ],
+    "Songs/Spoliarium.md": [
+      122.1,
+      306,
+      532.3
+    ],
+    "Songs/sol at luna.md": [
+      371.5,
+      -159.2,
+      356.5
+    ],
+    "Songs/Snowman.md": [
+      71,
+      -447.3,
+      283
+    ],
+    "Songs/Sayaw Kikay.md": [
+      -501.9,
+      -247.8,
+      -183.1
+    ],
+    "Songs/SM Jingle.md": [
+      -68.2,
+      262.4,
+      -10.3
+    ],
+    "Songs/Snake Eyes.md": [
+      -109.7,
+      -389,
+      -386.9
+    ],
+    "Songs/Skyfall.md": [
+      -103.5,
+      -40.4,
+      512.5
+    ],
+    "Songs/Sirena.md": [
+      -116,
+      49.3,
+      -111.4
+    ],
+    "Songs/SHYNE.md": [
+      434,
+      86.6,
+      -521.6
+    ],
+    "Songs/Shounen Heart.md": [
+      359.4,
+      21.2,
+      -519.2
+    ],
+    "Songs/SHINKIRO.md": [
+      114.8,
+      -120.2,
+      -460.2
+    ],
+    "Songs/She’s Gone.md": [
+      -252.8,
+      354.3,
+      224.3
+    ],
+    "Songs/September.md": [
+      -313.4,
+      -479.2,
+      81.3
+    ],
+    "Songs/Sana Ngayong Pasko.md": [
+      -190.2,
+      559.6,
+      287.5
+    ],
+    "Songs/Sana Ako Na Lang.md": [
+      840.7,
+      -318.5,
+      -128.9
+    ],
+    "Songs/Sabihin.md": [
+      -149.5,
+      575.9,
+      346.5
+    ],
+    "Songs/Sa Susunod Na Habang Buhay.md": [
+      304.1,
+      483,
+      34.1
+    ],
+    "Songs/Sa Gitna ng Ulan.md": [
+      -125.8,
+      151.7,
+      -366.2
+    ],
+    "Songs/Risk It All.md": [
+      207.8,
+      147.8,
+      -193.8
+    ],
+    "Songs/RIDE ON TIME.md": [
+      -788.5,
+      197,
+      -470.3
+    ],
+    "Songs/Renai Circulation.md": [
+      359.3,
+      122.1,
+      155
+    ],
+    "Songs/Release Me.md": [
+      -394,
+      284.2,
+      43.2
+    ],
+    "Songs/Ready Steady.md": [
+      209.3,
+      92.1,
+      -555.5
+    ],
+    "Songs/Raining in Manila.md": [
+      -140.5,
+      240.7,
+      146.1
+    ],
+    "Songs/Racing into the Night.md": [
+      -211.5,
+      -358.9,
+      -189.3
+    ],
+    "Songs/Put Your Head on My Shoulder.md": [
+      170.1,
+      32.7,
+      322.2
+    ],
+    "Songs/Qing Fei De Yi.md": [
+      -392.6,
+      235.3,
+      9.4
+    ],
+    "Songs/Propose.md": [
+      661.2,
+      -429.9,
+      -300.4
+    ],
+    "Songs/Pusong Bato.md": [
+      5.4,
+      340.3,
+      89.1
+    ],
+    "Songs/Pretty Little Baby.md": [
+      -195.2,
+      30.2,
+      485.2
+    ],
+    "Songs/Porque.md": [
+      279.1,
+      470.1,
+      -18.8
+    ],
+    "Songs/Pony.md": [
+      -138.9,
+      530.8,
+      88.5
+    ],
+    "Songs/Please Never Fall in Love Again.md": [
+      -8.7,
+      -462.4,
+      343.4
+    ],
+    "Songs/Pinoy Ako.md": [
+      190.2,
+      247.3,
+      115.1
+    ],
+    "Songs/Piliin mo ang Pilipinas.md": [
+      -193.1,
+      541.2,
+      -157.1
+    ],
+    "Songs/Paubaya.md": [
+      -146.3,
+      226.4,
+      55.3
+    ],
+    "Songs/Phony.md": [
+      -305.9,
+      -902,
+      -16.6
+    ],
+    "Songs/Patchwork Staccato.md": [
+      268.6,
+      143.9,
+      -547.2
+    ],
+    "Songs/Pasilyo.md": [
+      101.5,
+      168.8,
+      116.3
+    ],
+    "Songs/Pare Mahal Mo Raw Ako.md": [
+      287.3,
+      209.3,
+      317.6
+    ],
+    "Songs/Para Sa'yo Ang Laban Na'to.md": [
+      346.4,
+      409.6,
+      282.8
+    ],
+    "Songs/Pano.md": [
+      -217.5,
+      112.8,
+      224.1
+    ],
+    "Songs/Pangarap Lang Kita.md": [
+      -31.7,
+      90.5,
+      170.3
+    ],
+    "Songs/Paligoy-ligoy.md": [
+      -188.9,
+      435.5,
+      -205.1
+    ],
+    "Songs/Pag-Ibig ay Kanibalismo II.md": [
+      -409.5,
+      254.4,
+      104.9
+    ],
+    "Songs/Padoru Padoru.md": [
+      98.9,
+      -398.3,
+      423.7
+    ],
+    "Songs/Otonoke.md": [
+      -108.8,
+      -529.9,
+      -329.9
+    ],
+    "Songs/Oohh Lala Baby.md": [
+      -291.6,
+      -371.2,
+      -125.6
+    ],
+    "Songs/Only.md": [
+      228.4,
+      -131.1,
+      56.2
+    ],
+    "Songs/Oo.md": [
+      25.8,
+      22.8,
+      214.1
+    ],
+    "Songs/Oh! Asmara.md": [
+      -386.2,
+      -387.7,
+      -428.3
+    ],
+    "Songs/Officially Missing You.md": [
+      -214.1,
+      -21.1,
+      471.7
+    ],
+    "Songs/Not Cute Anymore.md": [
+      -51,
+      -543.2,
+      -273.7
+    ],
+    "Songs/Ochame Kinou.md": [
+      -863.5,
+      101.6,
+      99.6
+    ],
+    "Songs/Nosi Ba Lasi.md": [
+      -193.8,
+      532.9,
+      376.1
+    ],
+    "Songs/Nobela.md": [
+      40,
+      238.3,
+      152.9
+    ],
+    "Songs/New Genesis.md": [
+      259.9,
+      -2,
+      -589.4
+    ],
+    "Songs/Narda.md": [
+      106,
+      398,
+      361.5
+    ],
+    "Songs/Never Gonna Give You Up.md": [
+      186,
+      -225.2,
+      273.9
+    ],
+    "Songs/My Clematis.md": [
+      354.9,
+      -268.8,
+      109.3
+    ],
+    "Songs/My Way.md": [
+      -113.3,
+      199.4,
+      409.8
+    ],
+    "Songs/Nangangamba.md": [
+      -146.5,
+      73.1,
+      404.9
+    ],
+    "Songs/Music Box of Fate.md": [
+      338.9,
+      -283.4,
+      -16.4
+    ],
+    "Songs/Mundo.md": [
+      267.5,
+      78.7,
+      305.5
+    ],
+    "Songs/Multo.md": [
+      157,
+      202.4,
+      -11.6
+    ],
+    "Songs/Mr Music.md": [
+      -852.4,
+      320.2,
+      248.8
+    ],
+    "Songs/Monitoring.md": [
+      -163.8,
+      -469.9,
+      -330.1
+    ],
+    "Songs/Mr Kupido.md": [
+      -258.9,
+      125.7,
+      16.9
+    ],
+    "Songs/Moechakkafire.md": [
+      -109.9,
+      -566.9,
+      -228.7
+    ],
+    "Songs/Misteryoso.md": [
+      -238.1,
+      237.9,
+      -69.1
+    ],
+    "Songs/MIRA.md": [
+      -512,
+      -671.1,
+      428.3
+    ],
+    "Songs/Miniskirt.md": [
+      -427.8,
+      32.1,
+      -94.5
+    ],
+    "Songs/Milo Energy Gap Song.md": [
+      -340.6,
+      225.4,
+      -63.5
+    ],
+    "Songs/Migraine.md": [
+      129.6,
+      385.6,
+      218.4
+    ],
+    "Songs/Mayonaka no Door.md": [
+      305.1,
+      31.3,
+      295.4
+    ],
+    "Songs/Maybe This Time.md": [
+      -212.6,
+      95.8,
+      296.1
+    ],
+    "Songs/Magnet.md": [
+      337.6,
+      60,
+      -582.9
+    ],
+    "Songs/Malunggay Pandesal.md": [
+      214.6,
+      368.7,
+      -354.6
+    ],
+    "Songs/Maging Sino Ka Man.md": [
+      -310.6,
+      138,
+      105.4
+    ],
+    "Songs/Magbalik.md": [
+      310.6,
+      199.4,
+      258.7
+    ],
+    "Songs/Mabataki.md": [
+      -776.3,
+      -60.6,
+      406.8
+    ],
+    "Songs/Magasin.md": [
+      152.1,
+      313.1,
+      521.8
+    ],
+    "Songs/Mabagal.md": [
+      234.9,
+      386.5,
+      133.7
+    ],
+    "Songs/Luha.md": [
+      -243.2,
+      452.4,
+      321.8
+    ],
+    "Songs/Love Story Ko.md": [
+      -96.4,
+      49.7,
+      -192
+    ],
+    "Songs/Love Like You.md": [
+      202.4,
+      -259.4,
+      373.6
+    ],
+    "Songs/Love Ka.md": [
+      242.5,
+      27.6,
+      -656.8
+    ],
+    "Songs/Lord Patawad.md": [
+      -137.7,
+      581,
+      -128
+    ],
+    "Songs/Ligaya.md": [
+      67.2,
+      331,
+      400.2
+    ],
+    "Songs/Let it go.md": [
+      376.2,
+      359.9,
+      280.8
+    ],
+    "Songs/Lakas-Tama.md": [
+      -255.6,
+      378.1,
+      -49.9
+    ],
+    "Songs/La Vie En Rose.md": [
+      366.2,
+      -121.5,
+      421.1
+    ],
+    "Songs/Kunin Mo Na Ang Lahat Sa Akin.md": [
+      -202,
+      557.1,
+      -130
+    ],
+    "Songs/Kung ’Di Rin Lang Ikaw.md": [
+      -83,
+      173.1,
+      -101.1
+    ],
+    "Songs/Kung Ako Na Lang Sana.md": [
+      -69.9,
+      582.7,
+      304.6
+    ],
+    "Songs/Kundiman.md": [
+      260.1,
+      398.6,
+      -319.5
+    ],
+    "Songs/Kokoronashi.md": [
+      408.5,
+      -124.5,
+      318
+    ],
+    "Songs/KNOW ME.md": [
+      347,
+      446.3,
+      19.8
+    ],
+    "Songs/Killing Me Softly With His Song.md": [
+      18.7,
+      98.7,
+      505
+    ],
+    "Songs/Kakaibabe.md": [
+      83.6,
+      480.6,
+      -76.4
+    ],
+    "Songs/Kai Kai Kitan.md": [
+      -83.5,
+      -452.2,
+      -331
+    ],
+    "Songs/Kahit Maputi Na Ang Buhok Ko.md": [
+      -73.5,
+      30.8,
+      180.1
+    ],
+    "Songs/Kahit Bata Pa Ako.md": [
+      372.4,
+      387.9,
+      39.1
+    ],
+    "Songs/Kahit Ayaw Mo Na.md": [
+      -100.3,
+      316.2,
+      -191.3
+    ],
+    "Songs/Just the Two of Us.md": [
+      -80.5,
+      -244,
+      466.5
+    ],
+    "Songs/Jopay.md": [
+      291.3,
+      281.4,
+      288.3
+    ],
+    "Songs/Jingle Bell Rock.md": [
+      -118.6,
+      461.1,
+      447
+    ],
+    "Songs/Jeepney Love Story.md": [
+      -198.3,
+      277,
+      -51.5
+    ],
+    "Songs/Jane Doe.md": [
+      360.7,
+      -742.1,
+      -417.8
+    ],
+    "Songs/Jabol.md": [
+      380,
+      409.6,
+      -196.6
+    ],
+    "Songs/It's Showtime.md": [
+      370.2,
+      347.1,
+      -24.5
+    ],
+    "Songs/Inferno.md": [
+      -156.4,
+      -533.9,
+      -209.9
+    ],
+    "Songs/Ika’y Mahal Pa Rin.md": [
+      -84.3,
+      581.8,
+      357.6
+    ],
+    "Songs/Ikaw Na Nga.md": [
+      178.7,
+      510.9,
+      34.9
+    ],
+    "Songs/Ikaw Lang.md": [
+      262.2,
+      310.8,
+      -341.4
+    ],
+    "Songs/III.md": [
+      -319.7,
+      -264.6,
+      -292.7
+    ],
+    "Songs/I'm Your Treasure Chest.md": [
+      -78.8,
+      -374.4,
+      -260.5
+    ],
+    "Songs/I'm invincible.md": [
+      231.3,
+      9.7,
+      -597.1
+    ],
+    "Songs/I Will Survive.md": [
+      -38.9,
+      549.2,
+      363.2
+    ],
+    "Songs/I Want it That Way.md": [
+      101.1,
+      -275.8,
+      223.5
+    ],
+    "Songs/I Don't Want to Miss A Thing.md": [
+      -204.5,
+      470.1,
+      401.7
+    ],
+    "Songs/How It's Done.md": [
+      -657.7,
+      -231,
+      -179.1
+    ],
+    "Songs/Hopelessly Devoted to You.md": [
+      -142.5,
+      -70.8,
+      478
+    ],
+    "Songs/Hope in the dark.md": [
+      612.2,
+      -366.4,
+      -583.6
+    ],
+    "Songs/Hindi Ako Nagbi-brip.md": [
+      317.8,
+      416.4,
+      -40.1
+    ],
+    "Songs/Hinahanap-Hanap Kita.md": [
+      -58.6,
+      80,
+      -229.5
+    ],
+    "Songs/Hikaru Nara.md": [
+      139.9,
+      252,
+      583.4
+    ],
+    "Songs/HELP!!.md": [
+      -223,
+      -410,
+      -310.6
+    ],
+    "Songs/Harana.md": [
+      188,
+      138.5,
+      291.2
+    ],
+    "Songs/Happier Than Ever.md": [
+      100.2,
+      -452.7,
+      403.5
+    ],
+    "Songs/Hanggang Ngayon.md": [
+      157,
+      246.3,
+      -412.3
+    ],
+    "Songs/Hanggang Kailan (Umuwi ka na baby).md": [
+      -150.1,
+      142.9,
+      -57.7
+    ],
+    "Songs/Hanap-Hanap.md": [
+      -216.7,
+      221.7,
+      -250
+    ],
+    "Songs/Halik.md": [
+      -250.4,
+      439,
+      349.4
+    ],
+    "Songs/Habang Buhay.md": [
+      182,
+      314.7,
+      180.3
+    ],
+    "Songs/Grow Old with You.md": [
+      256,
+      365.4,
+      470
+    ],
+    "Songs/Grenade.md": [
+      -19.5,
+      -42.7,
+      217.1
+    ],
+    "Songs/good‐bye declaration.md": [
+      161.2,
+      -491.2,
+      -812.8
+    ],
+    "Songs/Golden Hour.md": [
+      -194.8,
+      -63.4,
+      460.4
+    ],
+    "Songs/God Gave Me You.md": [
+      286,
+      277.2,
+      124.8
+    ],
+    "Songs/Gitara.md": [
+      126.8,
+      165.4,
+      454.9
+    ],
+    "Songs/Gangnam Style.md": [
+      -505.2,
+      -226.1,
+      -239.1
+    ],
+    "Songs/Gabriela.md": [
+      -196.6,
+      -484.5,
+      -236.5
+    ],
+    "Songs/Fukashigi No Carte.md": [
+      601.4,
+      -182.1,
+      322.3
+    ],
+    "Songs/Foolish Heart.md": [
+      168.2,
+      -192.4,
+      126.4
+    ],
+    "Songs/Fly Me to the Moon.md": [
+      79.2,
+      -69.3,
+      365
+    ],
+    "Songs/From the Start.md": [
+      77.3,
+      1.4,
+      276.3
+    ],
+    "Songs/First Love Academy・School of Pure Love.md": [
+      -593.6,
+      -189.2,
+      647.3
+    ],
+    "Songs/Fallen.md": [
+      -328.8,
+      252.1,
+      90
+    ],
+    "Songs/Estudyante Blues.md": [
+      -403.7,
+      186.7,
+      42.2
+    ],
+    "Songs/Feliz Navidad.md": [
+      -225.1,
+      524.6,
+      336.7
+    ],
+    "Songs/Especially For You.md": [
+      208.4,
+      228,
+      402.5
+    ],
+    "Songs/Eroplanong Papel.md": [
+      33.1,
+      388.3,
+      -219
+    ],
+    "Songs/Envy Baby.md": [
+      -518.1,
+      -592.1,
+      495.5
+    ],
+    "Songs/Drunk.md": [
+      41.3,
+      -384.5,
+      448.8
+    ],
+    "Songs/Easy.md": [
+      123.7,
+      -439.9,
+      342.5
+    ],
+    "Songs/Driving In My Car with Jollibee.md": [
+      208.6,
+      -913.5,
+      101.6
+    ],
+    "Songs/DOTA O AKO.md": [
+      396.6,
+      382.8,
+      114.1
+    ],
+    "Songs/Doraemon no Uta!!.md": [
+      -188.7,
+      -522.6,
+      -279.8
+    ],
+    "Songs/Dilaw.md": [
+      -134.7,
+      -17.9,
+      228.2
+    ],
+    "Songs/Die with a Smile.md": [
+      146.7,
+      -170.5,
+      -28.1
+    ],
+    "Songs/Di Naging (Tayo).md": [
+      -40.7,
+      -418.7,
+      402.5
+    ],
+    "Songs/Di Ko Kayang Tanggapin.md": [
+      -175,
+      463.3,
+      438
+    ],
+    "Songs/Deal with the Devil.md": [
+      315.5,
+      -13.5,
+      -507
+    ],
+    "Songs/Dati.md": [
+      535.2,
+      352.4,
+      251.8
+    ],
+    "Songs/Daddy Daddy Do.md": [
+      366.7,
+      163.1,
+      -612.3
+    ],
+    "Songs/Dadalhin.md": [
+      -46.7,
+      458.2,
+      -244
+    ],
+    "Songs/Cupid.md": [
+      236.3,
+      -165,
+      137.1
+    ],
+    "Songs/Cry For Me.md": [
+      502.3,
+      -440.6,
+      -118.3
+    ],
+    "Songs/Crazy Frog.md": [
+      -75.1,
+      -528.6,
+      -191.1
+    ],
+    "Songs/Cool Off.md": [
+      39.8,
+      216.5,
+      -230.5
+    ],
+    "Songs/Come Inside of My Heart.md": [
+      119.3,
+      -286.4,
+      374.3
+    ],
+    "Songs/Classmate.md": [
+      315.5,
+      395.5,
+      144.8
+    ],
+    "Songs/Chinito.md": [
+      -214.3,
+      168.7,
+      -26.8
+    ],
+    "Songs/check.md": [
+      509.4,
+      -810.3,
+      12.6
+    ],
+    "Songs/Careless Whisper.md": [
+      -16.4,
+      126.1,
+      505
+    ],
+    "Songs/Can't Take My Eyes Off You.md": [
+      103.1,
+      -78.8,
+      435.6
+    ],
+    "Songs/Call Me Maybe.md": [
+      -325.2,
+      -452.5,
+      148.3
+    ],
+    "Songs/Buwan.md": [
+      368.4,
+      103.7,
+      304.6
+    ],
+    "Songs/C2 na Red!.md": [
+      270.9,
+      101.3,
+      38.7
+    ],
+    "Songs/Buko.md": [
+      -113.3,
+      517,
+      -205
+    ],
+    "Songs/Build Me Up Buttercup.md": [
+      11.2,
+      -417.9,
+      430
+    ],
+    "Songs/Bring Me To Life.md": [
+      17.2,
+      180,
+      246.8
+    ],
+    "Songs/Breaking Dimensions.md": [
+      -73.4,
+      -222,
+      -630.3
+    ],
+    "Songs/booty shorts.md": [
+      -798,
+      490.6,
+      -278.9
+    ],
+    "Songs/Boom Tarat Tarat.md": [
+      -43.7,
+      567.7,
+      204.9
+    ],
+    "Songs/Blue.md": [
+      359.8,
+      -154.1,
+      92.9
+    ],
+    "Songs/Bling-Bang-Bang-Born.md": [
+      -129.4,
+      -551.3,
+      -311.3
+    ],
+    "Songs/Bida and Saya.md": [
+      -280.6,
+      -3.2,
+      113.1
+    ],
+    "Songs/Best Part.md": [
+      -168.4,
+      -40.8,
+      599.9
+    ],
+    "Songs/Beer.md": [
+      -27.6,
+      209.3,
+      53.3
+    ],
+    "Songs/Beep Beep Beep Ang Sabi Ng Jeep.md": [
+      -45.8,
+      567.2,
+      -45.5
+    ],
+    "Songs/Bed of Roses.md": [
+      -139.9,
+      546.7,
+      402
+    ],
+    "Songs/Basang-Basa Sa Ulan.md": [
+      -361.5,
+      306.7,
+      193.2
+    ],
+    "Songs/Banyo Queen.md": [
+      -110.3,
+      512.2,
+      433.9
+    ],
+    "Songs/Bakit Ngayon Ka Lang.md": [
+      -46,
+      474.6,
+      112.9
+    ],
+    "Songs/Bakit Nga Ba Mahal Kita.md": [
+      -10.8,
+      278.2,
+      372.5
+    ],
+    "Songs/Baka Mitai.md": [
+      182.8,
+      -171.4,
+      77.4
+    ],
+    "Songs/Baby One More Time.md": [
+      -279.9,
+      -510,
+      123.4
+    ],
+    "Songs/Baby Shark.md": [
+      -410.5,
+      168.3,
+      93.3
+    ],
+    "Songs/Babalik Sayo.md": [
+      117.8,
+      120.5,
+      37.8
+    ],
+    "Songs/Ang Sarap Tumae.md": [
+      345.9,
+      404.1,
+      -28.4
+    ],
+    "Songs/All-In.md": [
+      -530.7,
+      -191.2,
+      -145.8
+    ],
+    "Songs/Ang Huling El Bimbo.md": [
+      104.3,
+      375.3,
+      399.9
+    ],
+    "Songs/All of Me.md": [
+      -45.5,
+      -413.6,
+      346.5
+    ],
+    "Songs/Ako'y Sa'yo.md": [
+      -148.6,
+      19.2,
+      519.5
+    ],
+    "Songs/Ako'y Sa'yo, Ika'y Akin.md": [
+      -32.9,
+      287.9,
+      233.3
+    ],
+    "Songs/Ako Na Lang.md": [
+      151.6,
+      1.9,
+      180.8
+    ],
+    "Songs/Akin Ka Na Lang (Morissette).md": [
+      -75,
+      193.3,
+      176.2
+    ],
+    "Songs/Akin Ka Na Lang (Itchyworms).md": [
+      140.8,
+      347.5,
+      24.2
+    ],
+    "Songs/AI♡SCREAM!.md": [
+      330.8,
+      30.3,
+      -457.2
+    ],
+    "Songs/Ahoy!.md": [
+      3.9,
+      -364.1,
+      77
+    ],
+    "Songs/Aishite Aishite Aishite.md": [
+      286.9,
+      -43.6,
+      -617.1
+    ],
+    "Songs/Above Below.md": [
+      -595.5,
+      -122.6,
+      -321.9
+    ],
+    "Songs/A Cruel Angel's Thesis.md": [
+      26.3,
+      -300.2,
+      -67
+    ],
+    "Songs/(They Long to Be) Close to You.md": [
+      212.7,
+      241.3,
+      552.9
+    ],
+    "SongArtists/Édith Piaf.md": [
+      429.6,
+      -156.9,
+      492.6
+    ],
+    "SongArtists/Zia Quizon.md": [
+      206.1,
+      -35.3,
+      180.7
+    ],
+    "SongArtists/Zelle.md": [
+      -181.5,
+      682.4,
+      385.7
+    ],
+    "SongArtists/Zaniel.md": [
+      356.4,
+      69.7,
+      -2.9
+    ],
+    "SongArtists/Zack Tabudlo.md": [
+      -110.5,
+      161.5,
+      313.8
+    ],
+    "SongArtists/Yurika Kubo.md": [
+      652.4,
+      -209.4,
+      364.2
+    ],
+    "SongArtists/Yung Kai.md": [
+      440.2,
+      -175.3,
+      61.8
+    ],
+    "SongArtists/Yoko Takahashi.md": [
+      45.6,
+      -360.9,
+      -70.1
+    ],
+    "SongArtists/YOASOBI.md": [
+      -340.3,
+      -180.4,
+      -84.8
+    ],
+    "SongArtists/Yeng Constantino.md": [
+      -160.4,
+      236,
+      -174.4
+    ],
+    "SongArtists/Willie Revillame.md": [
+      40.8,
+      617,
+      62.8
+    ],
+    "SongArtists/Vlync.md": [
+      -126.8,
+      185.5,
+      -437
+    ],
+    "SongArtists/Watson Amelia.md": [
+      -140.1,
+      -202.1,
+      -650.8
+    ],
+    "SongArtists/Viva Hot Babes.md": [
+      -551.4,
+      -311.6,
+      -180.5
+    ],
+    "SongArtists/Vhong Navarro.md": [
+      -333.9,
+      442.6,
+      200.6
+    ],
+    "SongArtists/Up Dharma Down.md": [
+      3,
+      -101.7,
+      160.2
+    ],
+    "SongArtists/Unison Square Garden.md": [
+      -729.8,
+      -552.6,
+      218.6
+    ],
+    "SongArtists/Tsunomaki Watame.md": [
+      482.7,
+      -95.5,
+      435.7
+    ],
+    "SongArtists/Travis Scott.md": [
+      495.6,
+      115.5,
+      -531.2
+    ],
+    "SongArtists/Tsumiki.md": [
+      -278.7,
+      -907.5,
+      11.9
+    ],
+    "SongArtists/toa.md": [
+      266.8,
+      209.7,
+      -592.5
+    ],
+    "SongArtists/Tippy Dos Santos.md": [
+      611.7,
+      387.4,
+      257.8
+    ],
+    "SongArtists/Tian Yiming.md": [
+      77.7,
+      -570.5,
+      341.8
+    ],
+    "SongArtists/Tia.md": [
+      367.9,
+      -74.5,
+      -515.7
+    ],
+    "SongArtists/Threee.md": [
+      138.2,
+      999.2,
+      -376.3
+    ],
+    "SongArtists/This Band.md": [
+      -128.8,
+      343.6,
+      -278.2
+    ],
+    "SongArtists/The Script.md": [
+      -492.3,
+      203.6,
+      193.3
+    ],
+    "SongArtists/The Pinkfong Company.md": [
+      -510.5,
+      145.1,
+      121.3
+    ],
+    "SongArtists/The Foundations.md": [
+      3.3,
+      -469,
+      510.2
+    ],
+    "SongArtists/Tatsuro Yamashita.md": [
+      -767.2,
+      190.9,
+      -502.7
+    ],
+    "SongArtists/The Cranberries.md": [
+      -150.6,
+      682.4,
+      274.6
+    ],
+    "SongArtists/Tamia.md": [
+      -297.1,
+      -56,
+      544.6
+    ],
+    "SongArtists/Takaya Kuroda.md": [
+      221.2,
+      -249.6,
+      36.3
+    ],
+    "SongArtists/Takanashi Kiara.md": [
+      -77.3,
+      -263.7,
+      -687.8
+    ],
+    "SongArtists/Steve Perry.md": [
+      196.3,
+      -285,
+      116.4
+    ],
+    "SongArtists/SunKissed Lola.md": [
+      154,
+      134.5,
+      95.1
+    ],
+    "SongArtists/Stella Jang.md": [
+      -33.4,
+      -511.2,
+      261.6
+    ],
+    "SongArtists/Steelheart.md": [
+      -341.1,
+      379.1,
+      264.8
+    ],
+    "SongArtists/Smugglaz.md": [
+      -155.9,
+      145.6,
+      -437.5
+    ],
+    "SongArtists/SiM.md": [
+      277.6,
+      144.1,
+      -685.9
+    ],
+    "SongArtists/Sleep Alley.md": [
+      -91.4,
+      -467.1,
+      459.8
+    ],
+    "SongArtists/Silent Sanctuary.md": [
+      286.5,
+      473.9,
+      -373
+    ],
+    "SongArtists/siinamota.md": [
+      38.2,
+      -467.3,
+      -328.6
+    ],
+    "SongArtists/Siakol.md": [
+      -332.1,
+      425.5,
+      -92.4
+    ],
+    "SongArtists/Sia.md": [
+      108.8,
+      -523.7,
+      259.2
+    ],
+    "SongArtists/shirobeats.md": [
+      544.2,
+      -427.2,
+      -144.4
+    ],
+    "SongArtists/Shiori Novella.md": [
+      -127.7,
+      -255.7,
+      -662.2
+    ],
+    "SongArtists/Sarah Geronimo.md": [
+      -312.2,
+      16.9,
+      237.9
+    ],
+    "SongArtists/Sampaguita.md": [
+      -260.5,
+      605.2,
+      428.4
+    ],
+    "SongArtists/Sam Concepcion.md": [
+      617.4,
+      348,
+      236.4
+    ],
+    "SongArtists/Saja Boys.md": [
+      -588.4,
+      -113.6,
+      -202.4
+    ],
+    "SongArtists/SAINT SATINE.md": [
+      42.9,
+      -557.7,
+      -234.8
+    ],
+    "SongArtists/Sabrina.md": [
+      483.6,
+      404.4,
+      119.9
+    ],
+    "SongArtists/Rubyeye.md": [
+      387.7,
+      -336.2,
+      96.9
+    ],
+    "SongArtists/Roselle Nava.md": [
+      -36.1,
+      300.5,
+      464.2
+    ],
+    "SongArtists/Rockstar 2.md": [
+      -73.3,
+      689.9,
+      401.8
+    ],
+    "SongArtists/Rivermaya.md": [
+      -78.4,
+      57.7,
+      -310.6
+    ],
+    "SongArtists/Rick Astley.md": [
+      234.8,
+      -283.1,
+      290.2
+    ],
+    "SongArtists/Rey Valera.md": [
+      -232.8,
+      42.2,
+      150
+    ],
+    "SongArtists/RetoshiRe.md": [
+      411.8,
+      448,
+      -248.5
+    ],
+    "SongArtists/rerulili.md": [
+      -860.1,
+      284.8,
+      233
+    ],
+    "SongArtists/Regine Velasquez.md": [
+      61.9,
+      370.3,
+      -393.6
+    ],
+    "SongArtists/Raora Panthera.md": [
+      -630.8,
+      -146.8,
+      -367.4
+    ],
+    "SongArtists/Randy Goodrum.md": [
+      -297.8,
+      60.9,
+      339.8
+    ],
+    "SongArtists/Ramerae.md": [
+      454.1,
+      431.5,
+      -211.4
+    ],
+    "SongArtists/Ralph MacDonald.md": [
+      -111.7,
+      -288.5,
+      534.6
+    ],
+    "SongArtists/Quest.md": [
+      605.3,
+      352,
+      280.9
+    ],
+    "SongArtists/Rachel Alejandro.md": [
+      -334,
+      95.9,
+      -32.3
+    ],
+    "SongArtists/PSY.md": [
+      -552.2,
+      -275.4,
+      -267.5
+    ],
+    "SongArtists/Paul Anka.md": [
+      216.6,
+      1.9,
+      391.2
+    ],
+    "SongArtists/Parokya ni Edgar.md": [
+      100.4,
+      111.8,
+      346.4
+    ],
+    "SongArtists/Paramore.md": [
+      44.7,
+      -550.7,
+      446.3
+    ],
+    "SongArtists/papiyon.md": [
+      493.9,
+      -153.3,
+      321.2
+    ],
+    "SongArtists/Pan the Bread.md": [
+      -491.4,
+      126.4,
+      -737.5
+    ],
+    "SongArtists/Ouro Kronii.md": [
+      -36.9,
+      -265.7,
+      -650.8
+    ],
+    "SongArtists/Orange and Lemons.md": [
+      25.8,
+      143.9,
+      -33
+    ],
+    "SongArtists/Ollie MN.md": [
+      -37.5,
+      -548.9,
+      356.8
+    ],
+    "SongArtists/Olivia Newton-John.md": [
+      -184,
+      -137.5,
+      550.2
+    ],
+    "SongArtists/Ogie Alcasid.md": [
+      90.4,
+      378,
+      -217.1
+    ],
+    "SongArtists/Nobita.md": [
+      299.5,
+      340.6,
+      -412.5
+    ],
+    "SongArtists/Ninomae Ina'nis.md": [
+      -73.3,
+      -189.1,
+      -697.7
+    ],
+    "SongArtists/Nero Claudius Caesar Augustus Germanicus (Fate).md": [
+      146.7,
+      -430.8,
+      503.2
+    ],
+    "SongArtists/Nerissa Ravencroft.md": [
+      -83.2,
+      -277.3,
+      -630.7
+    ],
+    "SongArtists/Nem.md": [
+      -584,
+      -227.3,
+      646.7
+    ],
+    "SongArtists/Nao Toyama.md": [
+      661.2,
+      -162.6,
+      347.9
+    ],
+    "SongArtists/Nanashi Mumei.md": [
+      -113.8,
+      -174.5,
+      -675.8
+    ],
+    "SongArtists/Naisho no Pierced Earrings.md": [
+      636.7,
+      -467.6,
+      -303.5
+    ],
+    "SongArtists/MYMP.md": [
+      286,
+      233.6,
+      474.8
+    ],
+    "SongArtists/Nadine Lustre.md": [
+      -249.4,
+      341.2,
+      -289.6
+    ],
+    "SongArtists/Mrs GREEN APPLE.md": [
+      -190.5,
+      -605.3,
+      -190.9
+    ],
+    "SongArtists/Morissette.md": [
+      -130.3,
+      195.5,
+      216.5
+    ],
+    "SongArtists/Moonstar88.md": [
+      52.6,
+      398,
+      170
+    ],
+    "SongArtists/Mori Calliope.md": [
+      -121.7,
+      -239.4,
+      -613.5
+    ],
+    "SongArtists/Moira Dela Torre.md": [
+      78,
+      235.3,
+      60.3
+    ],
+    "SongArtists/Mococo Abyssgard.md": [
+      -34.9,
+      -186.7,
+      -659.7
+    ],
+    "SongArtists/minato.md": [
+      384.7,
+      60.3,
+      -645.9
+    ],
+    "SongArtists/Millie Parfait.md": [
+      843.7,
+      -282.6,
+      -147.5
+    ],
+    "SongArtists/Miki Matsubara.md": [
+      396,
+      10.2,
+      314.4
+    ],
+    "SongArtists/Mikerapphone.md": [
+      418.1,
+      464.8,
+      -80.8
+    ],
+    "SongArtists/Michael Pangilinan.md": [
+      393.4,
+      210.9,
+      377.3
+    ],
+    "SongArtists/Michael Bublé.md": [
+      -70.4,
+      -348.1,
+      84.2
+    ],
+    "SongArtists/Mayonnaise.md": [
+      382.4,
+      303.1,
+      336.1
+    ],
+    "SongArtists/Masayuki Suzuki.md": [
+      422.2,
+      200.9,
+      -638.8
+    ],
+    "SongArtists/Maroon 5.md": [
+      -187.2,
+      -322.1,
+      337.6
+    ],
+    "SongArtists/Manny Pacquiao.md": [
+      423.5,
+      481.8,
+      316
+    ],
+    "SongArtists/Maldita.md": [
+      321.2,
+      561.7,
+      -59.6
+    ],
+    "SongArtists/Maki.md": [
+      -197.8,
+      -86.2,
+      241.2
+    ],
+    "SongArtists/Mac Ayres.md": [
+      193,
+      -505.3,
+      359.2
+    ],
+    "SongArtists/Maaya Uchida.md": [
+      638.7,
+      -238.8,
+      328
+    ],
+    "SongArtists/Luxiem.md": [
+      584.4,
+      -395.1,
+      -586.9
+    ],
+    "SongArtists/Lola Amour.md": [
+      -269.2,
+      266.2,
+      137.6
+    ],
+    "SongArtists/Lil Nas X.md": [
+      -585.9,
+      428.3,
+      -631.2
+    ],
+    "SongArtists/Lee Hi.md": [
+      287,
+      -169.2,
+      -2
+    ],
+    "SongArtists/Laufey.md": [
+      81.9,
+      -56,
+      299.7
+    ],
+    "SongArtists/lappy.md": [
+      -822.5,
+      467.7,
+      -257
+    ],
+    "SongArtists/LamazeP.md": [
+      -870.6,
+      122,
+      67.8
+    ],
+    "SongArtists/Lady Gaga.md": [
+      102.7,
+      -313.3,
+      -133.1
+    ],
+    "SongArtists/Kumiko Ōsugi.md": [
+      -242.4,
+      -584.2,
+      -312.1
+    ],
+    "SongArtists/Koseki Bijou.md": [
+      -23,
+      -218.8,
+      -627.7
+    ],
+    "SongArtists/Kitchie Nadal.md": [
+      375.5,
+      360.8,
+      -357
+    ],
+    "SongArtists/Kobo Kanaeru.md": [
+      -329.7,
+      -366.1,
+      -364.8
+    ],
+    "SongArtists/Kikuo.md": [
+      310.9,
+      -95.4,
+      -649
+    ],
+    "SongArtists/keshi.md": [
+      46.4,
+      -405.6,
+      540.3
+    ],
+    "SongArtists/KATSEYE.md": [
+      -266.6,
+      -521.8,
+      -235.2
+    ],
+    "SongArtists/Kenshi Yonezu.md": [
+      347.9,
+      -733.2,
+      -457.1
+    ],
+    "SongArtists/Kanaria.md": [
+      -514.7,
+      -631.7,
+      462.4
+    ],
+    "SongArtists/Kana Hanazawa.md": [
+      457.4,
+      103.4,
+      141.1
+    ],
+    "SongArtists/Kamikazee.md": [
+      137.7,
+      467.8,
+      420.4
+    ],
+    "SongArtists/JVKE.md": [
+      -265.3,
+      -124.1,
+      519.1
+    ],
+    "SongArtists/Junky.md": [
+      -232.2,
+      -867.4,
+      235
+    ],
+    "SongArtists/Juniya.md": [
+      -260.8,
+      613.4,
+      -300.5
+    ],
+    "SongArtists/JROA.md": [
+      -10.9,
+      15,
+      -357.9
+    ],
+    "SongArtists/Juan Karlos.md": [
+      470.2,
+      96.1,
+      339.6
+    ],
+    "SongArtists/Joy.md": [
+      -273.9,
+      484.6,
+      60.6
+    ],
+    "SongArtists/Jovit Baldivino.md": [
+      5.7,
+      405.3,
+      57.7
+    ],
+    "SongArtists/José Feliciano.md": [
+      -315.9,
+      585,
+      369.6
+    ],
+    "SongArtists/Jollibee.md": [
+      172,
+      -919.2,
+      116
+    ],
+    "SongArtists/Join The Club.md": [
+      52.2,
+      283.8,
+      167.7
+    ],
+    "SongArtists/John Legend.md": [
+      -109.5,
+      -457.4,
+      368.2
+    ],
+    "SongArtists/John Denver.md": [
+      205.2,
+      190.4,
+      658.7
+    ],
+    "SongArtists/Jireh Lim.md": [
+      -111.3,
+      564.2,
+      -288.9
+    ],
+    "SongArtists/James Reid.md": [
+      -333.7,
+      231.1,
+      -222.5
+    ],
+    "SongArtists/IV of Spades.md": [
+      233.1,
+      -113.3,
+      378.1
+    ],
+    "SongArtists/Itchyworms.md": [
+      -30.5,
+      277.5,
+      66.1
+    ],
+    "SongArtists/Issey.md": [
+      -102.7,
+      -652.2,
+      -222.9
+    ],
+    "SongArtists/IRyS.md": [
+      -111.3,
+      -188.7,
+      -620.5
+    ],
+    "SongArtists/Ironmouse.md": [
+      439.9,
+      -381.2,
+      -81.9
+    ],
+    "SongArtists/Inori Minase.md": [
+      650.1,
+      -214.8,
+      284.4
+    ],
+    "SongArtists/Imago.md": [
+      -76,
+      652,
+      -220.6
+    ],
+    "SongArtists/ILLIT.md": [
+      -6.9,
+      -617.9,
+      -294.1
+    ],
+    "SongArtists/Idina Menzel.md": [
+      468,
+      402.3,
+      315.7
+    ],
+    "SongArtists/IAXE.md": [
+      -66.4,
+      323.6,
+      278.9
+    ],
+    "SongArtists/Huntrix.md": [
+      -761.7,
+      -243.4,
+      -189.2
+    ],
+    "SongArtists/Houshou Marine.md": [
+      -46.9,
+      -284.3,
+      -242.9
+    ],
+    "SongArtists/Home Made Kazoku.md": [
+      432,
+      -13.5,
+      -529
+    ],
+    "SongArtists/Hikaru Utada.md": [
+      398.1,
+      -724,
+      -410.2
+    ],
+    "SongArtists/Hiiragi Kirai.md": [
+      225.6,
+      39.4,
+      -723.7
+    ],
+    "SongArtists/Hiiragi Magnetite.md": [
+      400.1,
+      164.5,
+      -508.4
+    ],
+    "SongArtists/HER.md": [
+      -213.9,
+      -66.7,
+      672.6
+    ],
+    "SongArtists/Harlem Yu.md": [
+      -487.2,
+      256.1,
+      -34.8
+    ],
+    "SongArtists/HalaCG.md": [
+      516.2,
+      -494.3,
+      -124.6
+    ],
+    "SongArtists/Hambog Ng Sagpro Krew.md": [
+      391.9,
+      470.5,
+      159
+    ],
+    "SongArtists/Hakos Baelz.md": [
+      -92.4,
+      -298.8,
+      -542
+    ],
+    "SongArtists/Grover Washington, Jr.md": [
+      -131.2,
+      -280.5,
+      501.4
+    ],
+    "SongArtists/Goose House.md": [
+      162,
+      275.1,
+      681.9
+    ],
+    "SongArtists/GloRilla.md": [
+      500.1,
+      78.3,
+      -517.8
+    ],
+    "SongArtists/Gloria Gaynor.md": [
+      6.9,
+      631.4,
+      411.1
+    ],
+    "SongArtists/Gloc-9.md": [
+      -144.5,
+      7.5,
+      -203.6
+    ],
+    "SongArtists/Ginuwine.md": [
+      -176,
+      617.2,
+      75
+    ],
+    "SongArtists/Gigi Murin.md": [
+      -637.4,
+      -79.8,
+      -340.1
+    ],
+    "SongArtists/Giga.md": [
+      162.1,
+      119.9,
+      -612
+    ],
+    "SongArtists/George Michael.md": [
+      -33.8,
+      135.7,
+      610.9
+    ],
+    "SongArtists/Gem Cristian.md": [
+      216.4,
+      428.1,
+      -423
+    ],
+    "SongArtists/geiko.md": [
+      438.7,
+      -217.8,
+      392
+    ],
+    "SongArtists/Gawr Gura.md": [
+      21.8,
+      -181.1,
+      -566.8
+    ],
+    "SongArtists/Fuwawa Abyssgard.md": [
+      -71.1,
+      -168.2,
+      -657.3
+    ],
+    "SongArtists/Fugees.md": [
+      30.8,
+      80.9,
+      612.2
+    ],
+    "SongArtists/Freddie Aguilar.md": [
+      -508.9,
+      171.4,
+      25.5
+    ],
+    "SongArtists/Frankie Valli.md": [
+      127.2,
+      -122.5,
+      525
+    ],
+    "SongArtists/Frank Sinatra.md": [
+      -10.2,
+      32.1,
+      431.4
+    ],
+    "SongArtists/fitterkarma.md": [
+      -505.4,
+      285.6,
+      132
+    ],
+    "SongArtists/First Circle.md": [
+      -180.2,
+      28.8,
+      625.5
+    ],
+    "SongArtists/FIFTY FIFTY.md": [
+      307.2,
+      -228.8,
+      139.5
+    ],
+    "SongArtists/Eve.md": [
+      -59.8,
+      -471.3,
+      -405.5
+    ],
+    "SongArtists/Evanescence.md": [
+      3.4,
+      175.9,
+      310.5
+    ],
+    "SongArtists/Eraserheads.md": [
+      134.5,
+      382.8,
+      543.3
+    ],
+    "SongArtists/Engelbert Humperdinck.md": [
+      -483.4,
+      336.5,
+      31.8
+    ],
+    "SongArtists/Elizabeth Rose Bloodflame.md": [
+      -657.5,
+      -123.3,
+      -330.3
+    ],
+    "SongArtists/Earth, Wind & Fire.md": [
+      -365.1,
+      -524.2,
+      72
+    ],
+    "SongArtists/Donnalyn Bartolome.md": [
+      109.5,
+      559.4,
+      -118.8
+    ],
+    "SongArtists/Dilaw.md": [
+      -340.7,
+      412.7,
+      -816.6
+    ],
+    "SongArtists/Dero Pedero.md": [
+      -71.9,
+      286,
+      -77.1
+    ],
+    "SongArtists/DECO27.md": [
+      -203.8,
+      -498.2,
+      -399.2
+    ],
+    "SongArtists/December Avenue.md": [
+      -17.4,
+      303.9,
+      -234.3
+    ],
+    "SongArtists/Dave Loggins.md": [
+      -288.4,
+      95.7,
+      354.5
+    ],
+    "SongArtists/Dasu.md": [
+      427.3,
+      468.6,
+      -219.3
+    ],
+    "SongArtists/Darren Espanto.md": [
+      -354.9,
+      -58.6,
+      120
+    ],
+    "SongArtists/Daniel Padilla.md": [
+      285,
+      435.9,
+      331.2
+    ],
+    "SongArtists/Daniel Caesar.md": [
+      -175.3,
+      -60.3,
+      686.4
+    ],
+    "SongArtists/Curse One.md": [
+      -169.1,
+      183.4,
+      -423.8
+    ],
+    "SongArtists/Cup of Joe.md": [
+      4.4,
+      223.9,
+      -83
+    ],
+    "SongArtists/Creepy Nuts.md": [
+      -124.4,
+      -605.8,
+      -373.4
+    ],
+    "SongArtists/Connie Francis.md": [
+      -270.2,
+      30.9,
+      562.8
+    ],
+    "SongArtists/chloe moriondo.md": [
+      257.4,
+      -300.7,
+      423.5
+    ],
+    "SongArtists/Chinozo.md": [
+      129.1,
+      -500.2,
+      -791.6
+    ],
+    "SongArtists/Ceres Fauna.md": [
+      -39.4,
+      -230.3,
+      -690.4
+    ],
+    "SongArtists/Cecilia Immergreen.md": [
+      -610.9,
+      -102.6,
+      -377.7
+    ],
+    "SongArtists/Carpenters.md": [
+      279.8,
+      254.1,
+      630.8
+    ],
+    "SongArtists/Carly Rae Jepsen.md": [
+      -381.5,
+      -479.2,
+      174.9
+    ],
+    "SongArtists/Callalily.md": [
+      425.6,
+      197.8,
+      270.5
+    ],
+    "SongArtists/Cali Swag District.md": [
+      -478.6,
+      -161.8,
+      -317.9
+    ],
+    "SongArtists/C!naH.md": [
+      424,
+      -299.8,
+      88.3
+    ],
+    "SongArtists/Bubi.md": [
+      549,
+      -458.9,
+      -106.8
+    ],
+    "SongArtists/Bryan White.md": [
+      387.7,
+      274.2,
+      103.1
+    ],
+    "SongArtists/Bruno Mars.md": [
+      134,
+      -36.1,
+      -43.6
+    ],
+    "SongArtists/Britney Spears.md": [
+      -301.1,
+      -572.3,
+      134.2
+    ],
+    "SongArtists/Bonnie Tyler.md": [
+      -30.6,
+      586.7,
+      493.4
+    ],
+    "SongArtists/Bon Jovi.md": [
+      -167.8,
+      627.7,
+      480.5
+    ],
+    "SongArtists/Bobby Helms.md": [
+      -135.8,
+      478.1,
+      555.8
+    ],
+    "SongArtists/Bituin Escalante.md": [
+      -46.4,
+      690.2,
+      314.5
+    ],
+    "SongArtists/Billie Eilish.md": [
+      152.4,
+      -517.8,
+      464.4
+    ],
+    "SongArtists/Ben&Ben.md": [
+      360.8,
+      577.3,
+      31.7
+    ],
+    "SongArtists/Bill Withers.md": [
+      -77.3,
+      -272.7,
+      533.5
+    ],
+    "SongArtists/bbno$.md": [
+      538.1,
+      -792.3,
+      -8.3
+    ],
+    "SongArtists/Bassilyo.md": [
+      -157.9,
+      670.6,
+      -147.3
+    ],
+    "SongArtists/Backstreet Boys.md": [
+      117.8,
+      -355,
+      213.9
+    ],
+    "SongArtists/back number.md": [
+      -762.5,
+      -73.6,
+      441.8
+    ],
+    "SongArtists/Baby Dolls.md": [
+      -335.3,
+      -416.6,
+      -126.8
+    ],
+    "SongArtists/Axel F.md": [
+      -38.2,
+      -599.4,
+      -162.8
+    ],
+    "SongArtists/Atsumi Tanezaki.md": [
+      661,
+      -163.4,
+      293.9
+    ],
+    "SongArtists/Asami Seto.md": [
+      676.8,
+      -200.9,
+      321
+    ],
+    "SongArtists/Ariel Rivera.md": [
+      -256.5,
+      649,
+      283.1
+    ],
+    "SongArtists/April Boy Regino.md": [
+      -220.6,
+      478.8,
+      534.3
+    ],
+    "SongArtists/AOA.md": [
+      -491.4,
+      14,
+      -117
+    ],
+    "SongArtists/Angeline Quinto.md": [
+      -263.2,
+      614.3,
+      -170.9
+    ],
+    "SongArtists/Anees.md": [
+      11.7,
+      44.5,
+      -360.9
+    ],
+    "SongArtists/Andrew E.md": [
+      -113,
+      566.6,
+      535
+    ],
+    "SongArtists/AiScReam.md": [
+      395.3,
+      -2,
+      -430.8
+    ],
+    "SongArtists/Airi Suzuki.md": [
+      390.9,
+      204.3,
+      -667.5
+    ],
+    "SongArtists/Aikee.md": [
+      467,
+      407.3,
+      64.5
+    ],
+    "SongArtists/Aeshi Yuki.md": [
+      436.2,
+      412.8,
+      -238
+    ],
+    "SongArtists/Aerosmith.md": [
+      -280.3,
+      489.5,
+      475.1
+    ],
+    "SongArtists/Aegis.md": [
+      -363.3,
+      422.5,
+      330.7
+    ],
+    "SongArtists/Ado.md": [
+      235.8,
+      -41.8,
+      -673.4
+    ],
+    "SongArtists/Adele.md": [
+      -99.4,
+      -79.7,
+      610.7
+    ],
+    "SongArtists/Adam Sandler.md": [
+      321,
+      410,
+      534.5
+    ],
+    "SongArtists/ABS-CBN Employees.md": [
+      468.7,
+      352.5,
+      -61.6
+    ],
+    "SongArtists/9Lana.md": [
+      657.3,
+      -427.2,
+      -339.4
+    ],
+    "SongArtists/8 Ballin’.md": [
+      431.6,
+      512.5,
+      -1.6
+    ],
+    "SongArtists/6FU;.md": [
+      -592.4,
+      -215.2,
+      -104.8
+    ]
+  }
+}

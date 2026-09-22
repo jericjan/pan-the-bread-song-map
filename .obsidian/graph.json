@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "[\"type\":\"Song\"] OR [\"type\":\"Weblink\"]  OR [\"type\":\"SongArist\"]",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"type\":\"SongArist\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"type\":\"Song\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "[\"type\":\"Weblink\"]",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.777873170731707,
+  "lineSizeMultiplier": 1.02263414634146,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 9.26048780487805,
+  "linkStrength": 0.68780487804878,
+  "linkDistance": 30,
+  "scale": 0.030182895067324852,
+  "close": false
+}
