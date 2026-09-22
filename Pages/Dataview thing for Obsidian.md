@@ -27,5 +27,13 @@ from "Songs"
 SORT length(file.inlinks) DESC
 ```
 
+# All artists
+```dataview
+TABLE 
+length(file.inlinks) as "Backlinks"
+from "SongArtists"
+SORT length(file.inlinks) DESC
+```
+
 Import this to Obsidian, change ````text` to ````dataview` , and then enable the Dataview community plugin
 

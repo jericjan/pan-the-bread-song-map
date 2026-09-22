@@ -13,7 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Dataview thing for Obsidian.md",
+                "file": "Weblinks/(Filipino Cover) Tabun たぶんYOASOBI by Pan.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(Filipino Cover) Tabun たぶんYOASOBI by Pan"
+            }
+          },
+          {
+            "id": "4a89d536efe16f60",
+            "type": "leaf",
+            "state": {
+              "type": "graph-insight-view",
+              "state": {},
+              "icon": "git-fork",
+              "title": "Advanced Graph View"
+            }
+          },
+          {
+            "id": "cd2c71251c1b674d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SongArtists/Ado.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dataview thing for Obsidian"
+              "title": "Ado"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#english",
+                "query": "tag:#hololive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 493.5
   },
   "right": {
     "id": "d6152c5fbfce213a",
@@ -199,36 +234,36 @@
       "digent-view:Open Digent View": false
     }
   },
-  "active": "c353250883272ff6",
+  "active": "cd2c71251c1b674d",
   "lastOpenFiles": [
+    "Songs/Love Ka.md",
+    "SongArtists/Ado.md",
+    "Songs/New Genesis.md",
+    "Songs/Tot Musica.md",
+    "Pages/Dataview thing for Obsidian.md",
+    "Weblinks/(Filipino Cover) Tabun たぶんYOASOBI by Pan.md",
+    "Songs/Tsundere Rap.md",
+    "Songs/Uhaw.md",
+    "Songs/Tadhana.md",
+    "Songs/Super Idol.md",
+    "Songs/Akin Ka Na Lang (Itchyworms).md",
+    "Songs/Akin Ka Na Lang (Morissette).md",
+    "Songs/Kakaibabe.md",
+    "Weblinks/【KARAOKE】 🥖 IS IT TIME FOR SINGING 🎤.md",
+    "Weblinks/KARAOKE  100K CELEBRATION ！！.md",
+    "Songs/Porque.md",
+    "SongArtists/Maldita.md",
     "Songs/Jabol.md",
     "Weblinks/【KARAOKE】 🥖 MORE SINGING MORE FUN !!!.md",
-    "Pages/Dataview thing for Obsidian.md",
     "README.md",
-    "Weblinks/KARAOKE  100K CELEBRATION ！！.md",
     "Weblinks/〖Cover〗MIRA  小春六花【 Pan VTuber】.md",
     "Weblinks/【TAGEN】🥖 Chill Karaoke + Q&A 【Pan VTuber】.md",
     "Weblinks/【Pan Vtuber】Oh! Asmara - Kobo Kanaeru【cover】.md",
     "Weblinks/【OFF COLLAB KARAOKE】 🥖 I'm singing with @KitsuiAkira !! 🤎【TAGEN】.md",
     "Weblinks/【KARAOKE】🥖 STEAMY BATHROOM KARAOKE.md",
     "Weblinks/【KARAOKE】 🥖 WHAT DO WE SING THIS MONTH 🤔.md",
-    "Weblinks/【KARAOKE】 🥖 IS IT TIME FOR SINGING 🎤.md",
     "clean_images.py",
-    "Weblinks/【KARAOKE RELAY】PAN'S BIRTHDAY SINGATHON 2026 🥖.md",
-    "Weblinks/【KARAOKE RELAY】 🥖 SINGING OUR HEARTS OUT TOGETHER!! 🤎.md",
     "Weblinks/Untitled.canvas",
-    "Weblinks/【cover】Breaking Dimensions ft Kaheru, Kiichan, Pan, Eggy, Spica.md",
-    "Games/Zenless Zone Zero.md",
-    "Games/League Of Legends.md",
-    "ShowsMovies/Alien Stage.md",
-    "SongArtists/6FU;.md",
-    "Songs/’Di Na Muli.md",
-    "Weblinks/【KARAOKE STREAM】 🥖 Spending My Last 2025 With You 🤎【TAGEN】.md",
-    "Pages/Pan Karaoke Streams.md",
-    "Pages/Types.md",
-    "ShowsMovies/Attack on Titan.md",
-    "Songs/The Rumbling.md",
-    "Songs/SHYNE.md",
     "Other",
     "Untitled.jpg",
     "Untitled.base",

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"type\":\"SongArist\"]",
@@ -25,20 +25,20 @@
       "query": "[\"type\":\"Weblink\"]",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 1803236
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 0.777873170731707,
+  "nodeSizeMultiplier": 1.90989268292683,
   "lineSizeMultiplier": 1.02263414634146,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.26048780487805,
-  "linkStrength": 0.68780487804878,
-  "linkDistance": 30,
-  "scale": 0.030182895067324852,
+  "centerStrength": 0.188292682926829,
+  "repelStrength": 12.425262728293,
+  "linkStrength": 0.494243902439024,
+  "linkDistance": 500,
+  "scale": 0.042315902689761195,
   "close": false
 }
