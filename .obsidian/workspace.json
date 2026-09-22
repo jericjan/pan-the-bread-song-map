@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
+                "file": "Pages/Dataview thing for Obsidian.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dataview thing for Obsidian"
             }
           }
         ]
@@ -192,7 +192,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "reverysky-map:Toggle ReverySky 3D Graph": false,
       "cosmograph:Open CosmoGraph 3D": false,
       "vault-orrery:Open Vault Orrery": false,
       "agentage-galaxy:Open 3D graph": false,
@@ -202,6 +201,9 @@
   },
   "active": "c353250883272ff6",
   "lastOpenFiles": [
+    "Songs/Jabol.md",
+    "Weblinks/【KARAOKE】 🥖 MORE SINGING MORE FUN !!!.md",
+    "Pages/Dataview thing for Obsidian.md",
     "README.md",
     "Weblinks/KARAOKE  100K CELEBRATION ！！.md",
     "Weblinks/〖Cover〗MIRA  小春六花【 Pan VTuber】.md",
@@ -218,7 +220,6 @@
     "Weblinks/【cover】Breaking Dimensions ft Kaheru, Kiichan, Pan, Eggy, Spica.md",
     "Games/Zenless Zone Zero.md",
     "Games/League Of Legends.md",
-    "Pages/Dataview thing for Obsidian.md",
     "ShowsMovies/Alien Stage.md",
     "SongArtists/6FU;.md",
     "Songs/’Di Na Muli.md",
@@ -230,8 +231,6 @@
     "Songs/SHYNE.md",
     "Other",
     "Untitled.jpg",
-    "Untitled.md",
-    "Weblinks/【KARAOKE RELAY】 🥖 SOMETHING DIFFERENT ⛅.md",
     "Untitled.base",
     "Pages/Untitled"
   ]

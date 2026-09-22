@@ -9,7 +9,16 @@ lastUpdated: '2026-09-21T05:11:18.621Z'
 tags: []
 coverImage: null
 ---
+# Just OPM
+```dataview
+TABLE 
+artist as "Artist(s)",
+length(file.inlinks) as "Backlinks"
+from "Songs" and #OPM
+SORT length(file.inlinks) DESC
+```
 
+# All Songs
 ```dataview
 TABLE 
 artist as "Artist(s)",
