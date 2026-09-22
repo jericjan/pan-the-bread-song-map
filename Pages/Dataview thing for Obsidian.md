@@ -10,7 +10,7 @@ tags: []
 coverImage: null
 ---
 
-```text
+```dataview
 TABLE 
 artist as "Artist(s)",
 length(file.inlinks) as "Backlinks"
