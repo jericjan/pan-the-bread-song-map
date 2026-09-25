@@ -35,5 +35,11 @@ from "SongArtists"
 SORT length(file.inlinks) DESC
 ```
 
+# Not lives
+```dataview
+TABLE
+url as "URL"
+from "Weblinks" and -#panlive
+```
 Import this to Obsidian, change ````text` to ````dataview` , and then enable the Dataview community plugin
 

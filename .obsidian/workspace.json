@@ -4,56 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "11c2fca2a0b2d9b3",
+        "id": "29cf880657da3c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "c353250883272ff6",
+            "id": "1903cc8cc07ca1eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weblinks/(Filipino Cover) Tabun たぶんYOASOBI by Pan.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "(Filipino Cover) Tabun たぶんYOASOBI by Pan"
-            }
-          },
-          {
-            "id": "4a89d536efe16f60",
-            "type": "leaf",
-            "state": {
-              "type": "graph-insight-view",
-              "state": {},
-              "icon": "git-fork",
-              "title": "Advanced Graph View"
-            }
-          },
-          {
-            "id": "cd2c71251c1b674d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SongArtists/Ado.md",
+                "file": "Pages/Dataview thing for Obsidian.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": false,
+                  "extraContext": true,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -62,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ado"
+              "title": "Dataview thing for Obsidian"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pages/Dataview thing for Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pages/Dataview thing for Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -201,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weblinks/【KARAOKE RELAY】PAN'S BIRTHDAY SINGATHON 2026 🥖.md",
+                "file": "Pages/Dataview thing for Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 675.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,14 +200,19 @@
       "digent-view:Open Digent View": false
     }
   },
-  "active": "cd2c71251c1b674d",
+  "active": "1903cc8cc07ca1eb",
   "lastOpenFiles": [
-    "Songs/Love Ka.md",
     "SongArtists/Ado.md",
+    "Pages/Dataview thing for Obsidian.md",
+    "Weblinks/【ORIGINAL SONG】 Welcome to The Bakery! 【Pan VTuber】.md",
+    "Weblinks/MINISKIRT - Cover by Pan & @KureijiOllie.md",
+    "SongArtists/Kobo Kanaeru.md",
+    "SongArtists/Eraserheads.md",
+    "Weblinks/(Filipino Cover) Tabun たぶんYOASOBI by Pan.md",
+    "Songs/Aishite Aishite Aishite.md",
+    "Songs/Love Ka.md",
     "Songs/New Genesis.md",
     "Songs/Tot Musica.md",
-    "Pages/Dataview thing for Obsidian.md",
-    "Weblinks/(Filipino Cover) Tabun たぶんYOASOBI by Pan.md",
     "Songs/Tsundere Rap.md",
     "Songs/Uhaw.md",
     "Songs/Tadhana.md",
@@ -257,11 +228,6 @@
     "Weblinks/【KARAOKE】 🥖 MORE SINGING MORE FUN !!!.md",
     "README.md",
     "Weblinks/〖Cover〗MIRA  小春六花【 Pan VTuber】.md",
-    "Weblinks/【TAGEN】🥖 Chill Karaoke + Q&A 【Pan VTuber】.md",
-    "Weblinks/【Pan Vtuber】Oh! Asmara - Kobo Kanaeru【cover】.md",
-    "Weblinks/【OFF COLLAB KARAOKE】 🥖 I'm singing with @KitsuiAkira !! 🤎【TAGEN】.md",
-    "Weblinks/【KARAOKE】🥖 STEAMY BATHROOM KARAOKE.md",
-    "Weblinks/【KARAOKE】 🥖 WHAT DO WE SING THIS MONTH 🤔.md",
     "clean_images.py",
     "Weblinks/Untitled.canvas",
     "Other",
