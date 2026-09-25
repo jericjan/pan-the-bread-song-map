@@ -32,5 +32,5 @@ coverImage: null
 
 ## MikuFes - Sep 6 2026
 
-[MIKUFES 2026 (SEPT. 6, 2026, 3:24PM) Pan's performance onstage. #Panlive #mikuhatsune](../Weblinks/MIKUFES%202026%20(SEPT%206,%202026,%20324PM)%20Pan's%20performance%20onstage%20#Panlive%20#mikuha.md)
+[MIKUFES 2026 (SEPT. 6, 2026, 3:24PM) Pan's performance onstage.](../Weblinks/MIKUFES%202026%20(SEPT%206,%202026,%20324PM)%20Pan's%20performance%20onstage.md)
 
