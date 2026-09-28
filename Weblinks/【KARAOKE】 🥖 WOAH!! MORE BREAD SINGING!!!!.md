@@ -33,5 +33,5 @@ Timestamps by **mochiarchives**
 1:49:00 [[Pangarap Lang Kita]]
 1:53:55 [[Torete]]
 2:00:11 [[Pano]]
-2:07:11 [[Bida and Saya]]
+2:07:11 [[Bida ang Saya]]
 

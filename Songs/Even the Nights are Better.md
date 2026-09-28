@@ -1,0 +1,11 @@
+---
+type: 'Song'
+title: Even the Nights are Better
+aliases: null
+tags: [english]
+artist: ['[[Air Supply]]']
+showMovie: null
+game: []
+---
+
+

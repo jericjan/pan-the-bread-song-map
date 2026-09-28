@@ -1,6 +1,6 @@
 ---
 type: 'Song'
-title: Bida and Saya
+title: Bida ang Saya
 aliases: Jollibee theme
 tags: [OPM]
 artist: ['[[Sarah Geronimo]]', '[[Darren Espanto]]']
