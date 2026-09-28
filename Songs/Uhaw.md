@@ -3,7 +3,7 @@ type: 'Song'
 title: Uhaw
 aliases: null
 tags: [OPM]
-artist: ['[[Dilaw]]']
+artist: ['[[Dilaw (Artist)]]']
 showMovie: null
 game: []
 ---

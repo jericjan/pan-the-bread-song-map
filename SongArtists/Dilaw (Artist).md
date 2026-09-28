@@ -1,6 +1,6 @@
 ---
 type: 'SongArist'
-title: Dilaw
+title: Dilaw (Artist)
 aliases: null
 tags: []
 ---
