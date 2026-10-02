@@ -14,7 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 Timestamps by me
 
 ---
@@ -26,3 +25,4 @@ Timestamps by me
 23:46 [[Call Me Maybe]]
 27:08 [[Oohh Lala Baby]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=5Ldp_auQXJE)

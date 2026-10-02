@@ -13,6 +13,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Mabataki]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=SftG9wmKStY)

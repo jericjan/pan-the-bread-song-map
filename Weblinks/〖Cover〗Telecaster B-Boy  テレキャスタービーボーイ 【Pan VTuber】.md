@@ -14,6 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Telecaster B-Boy]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=QrtjP6hGIcA)

@@ -13,6 +13,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Hope in the dark]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=bUNBHl7CgCY)

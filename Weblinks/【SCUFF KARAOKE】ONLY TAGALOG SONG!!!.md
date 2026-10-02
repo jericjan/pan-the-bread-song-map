@@ -14,7 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 Timestamps by **xiaolongpao**
 
 ---
@@ -36,3 +35,4 @@ Setlist:
 1:45:47 => [[Sirena]] ft. Ebe Dancel (Bars yo 🔥) + a wild Kiichan appears in the chat
 1:53:37 => [[Oo|Oo - Up Dharma Down]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=tVbDlEa3ws8)

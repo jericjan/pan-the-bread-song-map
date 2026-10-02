@@ -13,6 +13,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Music Box of Fate]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=-oPEOh8iZWI)

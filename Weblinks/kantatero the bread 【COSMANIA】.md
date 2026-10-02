@@ -14,7 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 Timestamps by **@jykesss**
 
 ---
@@ -22,3 +21,4 @@ Timestamps by **@jykesss**
 18:11 [[God-ish]]
 24:01 [[Roki]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=cNV_Dhvw36o)

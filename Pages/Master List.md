@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Dataview thing for Obsidian
+title: Master List
 aliases:
 description:
 icon:
@@ -9,6 +9,7 @@ lastUpdated: 2026-09-21T05:11:18.621Z
 tags: []
 coverImage:
 dg-publish: true
+dg-home: true
 ---
 # Just OPM
 ```dataview

@@ -13,6 +13,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[good‐bye declaration]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=no7AMSvFiIE)

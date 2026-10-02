@@ -14,6 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Blue]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=qBYvkqlGUZU)

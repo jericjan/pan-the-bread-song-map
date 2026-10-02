@@ -14,6 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Tsundere Rap]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=rhcaOEYk2Do)

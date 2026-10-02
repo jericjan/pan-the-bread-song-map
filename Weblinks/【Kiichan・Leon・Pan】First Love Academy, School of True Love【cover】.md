@@ -14,6 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[First Love Academy・School of Pure Love]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=X1izF22Rw1E)

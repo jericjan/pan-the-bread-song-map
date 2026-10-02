@@ -13,7 +13,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 Timestamps by **@GamesTravelAndMore-w4j, @theoverlordbear, @AltAndays**
 
 ---
@@ -41,3 +40,4 @@ Timestamps(if you want to rewatch it again)
 53:27 - 53:33 Walang Encore
 53:36 - 55:58 The End
 
+[OPEN LINK](https://www.youtube.com/watch?v=ViSbTb3tk4Q)

@@ -14,6 +14,6 @@ category: null
 topic: null
 dg-publish: true
 ---
-
 [[Ochame Kinou]]
 
+[OPEN LINK](https://www.youtube.com/watch?v=MIy5Fltzgxg)
