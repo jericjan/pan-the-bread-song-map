@@ -1,7 +1,7 @@
 ---
 type: 'SongArist'
-title: bbno$
-aliases: null
+title: bbnoS
+aliases: bbno$
 tags: []
 dg-publish: true
 ---

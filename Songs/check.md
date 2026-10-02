@@ -1,15 +1,13 @@
 ---
-type: Song
+type: 'Song'
 title: check
-aliases:
-tags:
-  - english
-artist:
-  - "[[bbnos]]"
-showMovie:
+aliases: null
+tags: [english]
+artist: ['[[bbnoS]]']
+showMovie: null
 game: []
 dg-publish: true
 ---
 
 ## Artist(s)
-- [[bbnos]]
+- [[bbnoS]]
