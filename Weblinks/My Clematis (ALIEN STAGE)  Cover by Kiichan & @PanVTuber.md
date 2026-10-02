@@ -1,6 +1,6 @@
 ---
 type: 'Weblink'
-title: 'My Clematis [ALIEN STAGE] | Cover by Kiichan & @PanVTuber '
+title: 'My Clematis (ALIEN STAGE) | Cover by Kiichan & @PanVTuber '
 description: >-
   "Even if I fall asleep for infinity, don't leave my
   side"___________________________________________YIPPIIIIIIII THIS IS FINALLY

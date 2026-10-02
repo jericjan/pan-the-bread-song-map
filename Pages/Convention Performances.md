@@ -1,13 +1,13 @@
 ---
-type: Page
+type: 'Page'
 title: Convention Performances
-aliases:
-description:
-icon:
-createdAt: 2026-09-24T15:39:39.588Z
-lastUpdated: 2026-09-25T05:38:59.160Z
+aliases: null
+description: null
+icon: null
+createdAt: '2026-09-24T15:39:39.588Z'
+lastUpdated: '2026-09-25T05:38:59.160Z'
 tags: []
-coverImage:
+coverImage: null
 dg-publish: true
 ---
 

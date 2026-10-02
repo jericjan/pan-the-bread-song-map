@@ -1,14 +1,13 @@
 ---
-type: Page
+type: 'Page'
 title: Cosmania 2024
-aliases:
-description:
-icon:
-createdAt: 2026-09-25T05:32:02.209Z
-lastUpdated: 2026-09-25T05:38:39.169Z
-tags:
-  - incomplete
-coverImage:
+aliases: null
+description: null
+icon: null
+createdAt: '2026-09-25T05:32:02.209Z'
+lastUpdated: '2026-09-25T05:38:39.169Z'
+tags: [incomplete]
+coverImage: null
 dg-publish: true
 ---
 

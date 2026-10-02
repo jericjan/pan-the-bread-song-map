@@ -1,26 +1,17 @@
 ---
-type: Page
+type: 'Page'
 title: Dataview thing for Obsidian
-aliases:
-description:
-icon:
-createdAt: 2026-09-19T05:02:07.993Z
-lastUpdated: 2026-09-21T05:11:18.621Z
+aliases: null
+description: null
+icon: null
+createdAt: '2026-09-19T05:02:07.993Z'
+lastUpdated: '2026-09-21T05:11:18.621Z'
 tags: []
-coverImage:
+coverImage: null
 dg-publish: true
 ---
-# Just OPM
-```dataview
-TABLE 
-artist as "Artist(s)",
-length(file.inlinks) as "Backlinks"
-from "Songs" and #OPM
-SORT length(file.inlinks) DESC
-```
 
-# All Songs
-```dataview
+```text
 TABLE 
 artist as "Artist(s)",
 length(file.inlinks) as "Backlinks"
@@ -28,19 +19,5 @@ from "Songs"
 SORT length(file.inlinks) DESC
 ```
 
-# All artists
-```dataview
-TABLE 
-length(file.inlinks) as "Backlinks"
-from "SongArtists"
-SORT length(file.inlinks) DESC
-```
-
-# Not lives
-```dataview
-TABLE
-url as "URL"
-from "Weblinks" and -#panlive
-```
 Import this to Obsidian, change ````text` to ````dataview` , and then enable the Dataview community plugin
 
