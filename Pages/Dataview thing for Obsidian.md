@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Dataview thing for Obsidian
-aliases: null
-description: null
-icon: null
-createdAt: '2026-09-19T05:02:07.993Z'
-lastUpdated: '2026-09-21T05:11:18.621Z'
+aliases:
+description:
+icon:
+createdAt: 2026-09-19T05:02:07.993Z
+lastUpdated: 2026-09-21T05:11:18.621Z
 tags: []
-coverImage: null
+coverImage:
+dg-publish: true
 ---
 # Just OPM
 ```dataview
