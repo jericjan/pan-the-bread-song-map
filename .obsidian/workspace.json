@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/AI♡SCREAM!.md",
+                "file": "SongArtists/Itchyworms.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI♡SCREAM!"
+              "title": "Itchyworms"
             }
           },
           {
@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Destiny"
             }
+          },
+          {
+            "id": "7fb303e62f36f6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weblinks/My Clematis [ALIEN STAGE]  Cover by Kiichan & @PanVTuber.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "My Clematis [ALIEN STAGE]  Cover by Kiichan & @PanVTuber"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Convention Performances.md",
+                "file": "SongArtists/Itchyworms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -278,36 +302,37 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9662c1644c7ffd11",
+  "active": "7fb303e62f36f6d6",
   "lastOpenFiles": [
+    "filename_check.py",
+    "####.md",
+    "Weblinks/My Clematis [ALIEN STAGE]  Cover by Kiichan & @PanVTuber.md",
+    "Songs/My Clematis.md",
+    "SongArtists/Itchyworms.md",
+    "dupe_check.py",
+    "New Text Document.txt",
+    "SongArtists/Aerosmith.md",
+    "SongArtists/Adele.md",
+    "SongArtists/9Lana.md",
+    "SongArtists/8 Ballin’.md",
+    "Songs/Uhaw.md",
+    "Songs/AI♡SCREAM!.md",
     "Songs/Above Below.md",
     "Pages/Dataview thing for Obsidian.md",
     "Pages/OnLiveCon 2023 Songs.md",
     "add_dg_publish.py",
-    "New Text Document.txt",
     "Tweets/Untitled.md",
     "Tweets/Untitled (1).md",
     "Pages/Cosmania 2024.md",
     "Pages/Convention Performances.md",
     "SongArtists/Kamikazee.md",
     "Songs/Narda.md",
-    "Songs/Uhaw.md",
     "Songs/Destiny.md",
     "SongArtists/Dilaw.md",
     "Songs/Dilaw.md",
     "Weblinks/【KARAOKE STREAM】 🥖 Horay! More singing! Some English this time maybe 🤎【TAGEN.md",
     "Songs/Beer.md",
     "Songs/Halik.md",
-    "Songs/Bakit Nga Ba Mahal Kita.md",
-    "Songs/Come Inside of My Heart.md",
-    "SongArtists/Aegis.md",
-    "Songs/Magbalik.md",
-    "Songs/Migraine.md",
-    "Weblinks/【KARAOKE】 🥖 WHAT DO WE SING THIS MONTH 🤔.md",
-    "Songs/Multo.md",
-    "Weblinks/kantatero the bread 【COSMANIA】.md",
-    "Weblinks/【OSHI CON PERFORMANCE】 🥖 WE SINGING BEER ON THIS ONE 🍻.md",
-    "SongArtists/Ado.md",
     "clean_images.py",
     "Weblinks/Untitled.canvas",
     "Other",
