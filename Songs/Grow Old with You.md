@@ -11,3 +11,6 @@ dg-publish: true
 
 It's a cover but whatever, consider it OPM
 
+## Artist(s)
+- [[Daniel Padilla]]
+- [[Adam Sandler]]

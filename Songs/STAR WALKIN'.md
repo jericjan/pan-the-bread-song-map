@@ -11,3 +11,8 @@ dg-publish: true
 
 The anthem for [2022 League of Legends World Championship](https://en.wikipedia.org/wiki/2022_League_of_Legends_World_Championship)
 
+## Artist(s)
+- [[Lil Nas X]]
+
+## Game(s)
+- [[League Of Legends]]

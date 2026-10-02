@@ -9,4 +9,8 @@ game: ['[[Zenless Zone Zero]]']
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Issey]]
 
+## Game(s)
+- [[Zenless Zone Zero]]

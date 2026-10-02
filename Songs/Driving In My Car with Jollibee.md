@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Jollibee]]
 
+## Show/Movie
+[Undertale/Deltarune](../ShowsMovies/UndertaleDeltarune.md)

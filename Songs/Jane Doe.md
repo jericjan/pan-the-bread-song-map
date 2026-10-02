@@ -9,4 +9,9 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Kenshi Yonezu]]
+- [[Hikaru Utada]]
 
+## Show/Movie
+[[Chainsaw Man]]

@@ -9,4 +9,13 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Asami Seto]]
+- [[Nao Toyama]]
+- [[Atsumi Tanezaki]]
+- [[Maaya Uchida]]
+- [[Yurika Kubo]]
+- [[Inori Minase]]
 
+## Show/Movie
+[[Rascal Does Not Dream]]

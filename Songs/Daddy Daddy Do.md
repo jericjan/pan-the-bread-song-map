@@ -9,4 +9,9 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Masayuki Suzuki]]
+- [[Airi Suzuki]]
 
+## Show/Movie
+[Kaguya-sama: Love Is War](../ShowsMovies/Kaguya-sama%20Love%20Is%20War.md)

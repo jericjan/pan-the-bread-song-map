@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Huntrix]]
 
+## Show/Movie
+[[KPop Demon Hunters]]

@@ -9,4 +9,9 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Rubyeye]]
+- [[C!naH]]
 
+## Show/Movie
+[[Alien Stage]]

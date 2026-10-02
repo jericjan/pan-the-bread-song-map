@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Takaya Kuroda]]
 
+## Show/Movie
+[[Yakuza series]]

@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [Retoshi:Re](../SongArtists/RetoshiRe.md)
+- [[Dasu]]
+- [[Aeshi Yuki]]
+- [[Ramerae]]

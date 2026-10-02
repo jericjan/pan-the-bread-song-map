@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Saja Boys]]
 
+## Show/Movie
+[[KPop Demon Hunters]]

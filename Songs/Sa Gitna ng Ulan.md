@@ -9,4 +9,7 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[Curse One]]
+- [[Vlync]]
+- [[Smugglaz]]

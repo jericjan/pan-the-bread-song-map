@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[sumika]]
 
+## Show/Movie
+[[Delicious in Dungeon]]

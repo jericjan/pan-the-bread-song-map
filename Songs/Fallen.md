@@ -9,4 +9,5 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[Lola Amour]]

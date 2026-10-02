@@ -9,4 +9,6 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[9Lana]]
+- [[Naisho no Pierced Earrings]]

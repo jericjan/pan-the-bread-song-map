@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Creepy Nuts]]
 
+## Show/Movie
+[Mashle: Magic and Muscles](../ShowsMovies/Mashle%20Magic%20and%20Muscles.md)

@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Frank Sinatra]]
 
+## Show/Movie
+[[Neon Genesis Evangelion]]

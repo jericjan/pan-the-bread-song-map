@@ -9,4 +9,7 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[Quest]]
+- [[Sam Concepcion]]
+- [[Tippy Dos Santos]]

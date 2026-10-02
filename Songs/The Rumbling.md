@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[SiM]]
 
+## Show/Movie
+[[Attack on Titan]]

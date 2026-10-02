@@ -9,4 +9,6 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[Daniel Caesar]]
+- [H.E.R.](../SongArtists/HER.md)

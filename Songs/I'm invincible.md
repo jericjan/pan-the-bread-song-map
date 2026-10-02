@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Ado]]
 
+## Show/Movie
+[[One Piece]]

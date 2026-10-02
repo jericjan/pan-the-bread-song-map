@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Unison Square Garden]]
 
+## Show/Movie
+[[Kekkai Sensen]]

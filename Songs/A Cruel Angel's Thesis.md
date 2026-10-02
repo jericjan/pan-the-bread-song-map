@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Yoko Takahashi]]
 
+## Show/Movie
+[[Neon Genesis Evangelion]]

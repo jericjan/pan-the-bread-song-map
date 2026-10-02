@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Harlem Yu]]
 
+## Show/Movie
+[[Meteor Garden]]

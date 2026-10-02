@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[Elizabeth Rose Bloodflame]]
+- [[Raora Panthera]]
+- [[Cecilia Immergreen]]
+- [[Gigi Murin]]

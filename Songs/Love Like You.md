@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[chloe moriondo]]
 
+## Show/Movie
+[[Steven Universe]]

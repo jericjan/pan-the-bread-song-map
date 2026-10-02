@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Home Made Kazoku]]
 
+## Show/Movie
+[[Eureka Seven]]

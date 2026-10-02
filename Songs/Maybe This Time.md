@@ -9,4 +9,7 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[Sarah Geronimo]]
+- [[Dave Loggins]]
+- [[Randy Goodrum]]

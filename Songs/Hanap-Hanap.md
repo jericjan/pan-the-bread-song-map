@@ -9,4 +9,6 @@ game: []
 dg-publish: true
 ---
 
-
+## Artist(s)
+- [[James Reid]]
+- [[Nadine Lustre]]

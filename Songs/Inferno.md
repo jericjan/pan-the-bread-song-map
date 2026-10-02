@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [Mrs. GREEN APPLE](../SongArtists/Mrs%20GREEN%20APPLE.md)
 
+## Show/Movie
+[[Fire Force]]

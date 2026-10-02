@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Kumiko Ōsugi]]
 
+## Show/Movie
+[[Doraemon]]

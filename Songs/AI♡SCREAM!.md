@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[AiScReam]]
 
+## Show/Movie
+[[Love Live!]]

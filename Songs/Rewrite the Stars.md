@@ -9,4 +9,9 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Anne-Marie]]
+- [[James Arthur]]
 
+## Show/Movie
+[[The Greatest Showman]]

@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[6FU;]]
 
+## Show/Movie
+[[Alien Stage]]

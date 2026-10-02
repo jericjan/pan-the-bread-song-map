@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Tia]]
 
+## Show/Movie
+[[Kakegurui]]

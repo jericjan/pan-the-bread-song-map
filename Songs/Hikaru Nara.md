@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Goose House]]
 
+## Show/Movie
+[[Your Lie In April]]

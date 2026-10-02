@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Kana Hanazawa]]
 
+## Show/Movie
+[[Monogatari]]

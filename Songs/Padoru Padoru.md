@@ -9,4 +9,8 @@ game: []
 dg-publish: true
 ---
 
+## Artist(s)
+- [[Nero Claudius Caesar Augustus Germanicus (Fate)]]
 
+## Show/Movie
+[[Fate series]]
