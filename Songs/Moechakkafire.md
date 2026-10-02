@@ -6,6 +6,7 @@ tags: [jpop]
 artist: ['[[Issey]]']
 showMovie: null
 game: ['[[Zenless Zone Zero]]']
+dg-publish: true
 ---
 
 

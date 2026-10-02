@@ -6,6 +6,7 @@ tags: [kpop]
 artist: ['[[Huntrix]]']
 showMovie: '[[KPop Demon Hunters]]'
 game: []
+dg-publish: true
 ---
 
 

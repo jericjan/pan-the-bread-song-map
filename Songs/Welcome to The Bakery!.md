@@ -6,6 +6,7 @@ tags: [pan-original-song]
 artist: ['[[Pan the Bread]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

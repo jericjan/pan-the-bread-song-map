@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Lola Amour]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

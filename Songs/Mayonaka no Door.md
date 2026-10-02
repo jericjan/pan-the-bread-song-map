@@ -6,6 +6,7 @@ tags: [jpop, CityPop]
 artist: ['[[Miki Matsubara]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -12,6 +12,7 @@ iframeUrl: https://www.youtube.com/embed/QrtjP6hGIcA
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[Telecaster B-Boy]]

@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Steelheart]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [kpop]
 artist: ['[[Stella Jang]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

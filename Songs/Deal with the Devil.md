@@ -6,6 +6,7 @@ tags: [anime, jpop]
 artist: ['[[Tia]]']
 showMovie: '[[Kakegurui]]'
 game: []
+dg-publish: true
 ---
 
 

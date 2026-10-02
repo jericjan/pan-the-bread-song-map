@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Ogie Alcasid]]', '[[Regine Velasquez]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

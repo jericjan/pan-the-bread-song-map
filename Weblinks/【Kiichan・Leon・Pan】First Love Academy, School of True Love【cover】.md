@@ -12,6 +12,7 @@ iframeUrl: https://www.youtube.com/embed/X1izF22Rw1E
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[First Love Academy・School of Pure Love]]

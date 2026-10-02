@@ -6,6 +6,7 @@ tags: [musical]
 artist: ['[[Anne-Marie]]', '[[James Arthur]]']
 showMovie: '[[The Greatest Showman]]'
 game: []
+dg-publish: true
 ---
 
 

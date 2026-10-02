@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Jovit Baldivino]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

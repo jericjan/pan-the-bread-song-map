@@ -6,6 +6,7 @@ tags: [anime, jpop]
 artist: ['[[Kana Hanazawa]]']
 showMovie: '[[Monogatari]]'
 game: []
+dg-publish: true
 ---
 
 

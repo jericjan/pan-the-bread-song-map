@@ -6,6 +6,7 @@ tags: [english, cartoon]
 artist: ['[[chloe moriondo]]']
 showMovie: '[[Steven Universe]]'
 game: []
+dg-publish: true
 ---
 
 

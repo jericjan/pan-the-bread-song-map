@@ -6,6 +6,7 @@ tags: [nijisanji]
 artist: ['[[Luxiem]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

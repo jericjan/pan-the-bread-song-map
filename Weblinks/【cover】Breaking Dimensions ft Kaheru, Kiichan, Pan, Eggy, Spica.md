@@ -12,6 +12,7 @@ iframeUrl: https://www.youtube.com/embed/PY2SFpR1zEc
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[Breaking Dimensions]]

@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[minato]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

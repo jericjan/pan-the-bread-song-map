@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[rerulili]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

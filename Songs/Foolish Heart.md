@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Steve Perry]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

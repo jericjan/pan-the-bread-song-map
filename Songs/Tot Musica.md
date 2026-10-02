@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Ado]]']
 showMovie: '[[One Piece]]'
 game: []
+dg-publish: true
 ---
 
 

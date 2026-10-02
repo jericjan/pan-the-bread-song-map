@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Threee]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[James Reid]]', '[[Nadine Lustre]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

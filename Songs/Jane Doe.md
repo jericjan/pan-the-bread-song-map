@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Kenshi Yonezu]]', '[[Hikaru Utada]]']
 showMovie: '[[Chainsaw Man]]'
 game: []
+dg-publish: true
 ---
 
 

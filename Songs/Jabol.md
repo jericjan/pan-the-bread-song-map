@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[Retoshi:Re](../SongArtists/RetoshiRe.md)', '[[Dasu]]', '[[Aeshi Yuki]]', '[[Ramerae]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

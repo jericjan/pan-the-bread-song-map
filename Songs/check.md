@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[bbno$]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

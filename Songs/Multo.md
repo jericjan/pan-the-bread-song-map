@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Cup of Joe]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

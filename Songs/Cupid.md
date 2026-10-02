@@ -6,6 +6,7 @@ tags: [kpop]
 artist: ['[[FIFTY FIFTY]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

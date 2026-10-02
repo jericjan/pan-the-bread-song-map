@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Hiiragi Magnetite]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

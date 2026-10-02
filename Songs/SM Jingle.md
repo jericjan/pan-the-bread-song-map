@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Dero Pedero]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

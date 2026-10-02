@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Aerosmith]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

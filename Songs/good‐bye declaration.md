@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Chinozo]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

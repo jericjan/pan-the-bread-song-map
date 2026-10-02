@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[SiM]]']
 showMovie: '[[Attack on Titan]]'
 game: []
+dg-publish: true
 ---
 
 

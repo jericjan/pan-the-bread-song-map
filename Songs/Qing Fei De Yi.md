@@ -6,6 +6,7 @@ tags: [c-pop]
 artist: ['[[Harlem Yu]]']
 showMovie: '[[Meteor Garden]]'
 game: []
+dg-publish: true
 ---
 
 

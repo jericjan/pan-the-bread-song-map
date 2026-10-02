@@ -6,6 +6,7 @@ tags: [jpop, anime]
 artist: ['[[AiScReam]]']
 showMovie: '[[Love Live!]]'
 game: []
+dg-publish: true
 ---
 
 

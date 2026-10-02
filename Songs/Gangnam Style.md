@@ -6,6 +6,7 @@ tags: [kpop]
 artist: ['[[PSY]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

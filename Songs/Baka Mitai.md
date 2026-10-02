@@ -6,6 +6,7 @@ tags: [jpop]
 artist: ['[[Takaya Kuroda]]']
 showMovie: '[[Yakuza series]]'
 game: []
+dg-publish: true
 ---
 
 

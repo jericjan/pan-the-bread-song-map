@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Kikuo]]', '[[Ado]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

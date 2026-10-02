@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Goose House]]']
 showMovie: '[[Your Lie In April]]'
 game: []
+dg-publish: true
 ---
 
 

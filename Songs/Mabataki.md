@@ -6,6 +6,7 @@ tags: [jdrama]
 artist: ['[[back number]]']
 showMovie: '[[The 8-Year Engagement]]'
 game: []
+dg-publish: true
 ---
 
 

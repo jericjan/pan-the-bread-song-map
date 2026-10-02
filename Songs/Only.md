@@ -6,6 +6,7 @@ tags: [kpop]
 artist: ['[[Lee Hi]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

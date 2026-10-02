@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Curse One]]', '[[Vlync]]', '[[Smugglaz]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

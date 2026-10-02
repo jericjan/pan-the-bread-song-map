@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[sumika]]']
 showMovie: '[[Delicious in Dungeon]]'
 game: []
+dg-publish: true
 ---
 
 

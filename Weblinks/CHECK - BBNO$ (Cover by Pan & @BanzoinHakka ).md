@@ -4,6 +4,7 @@ title: CHECK - BBNO$ (Cover by Pan & @BanzoinHakka )
 description: >-
   Bread and exorcist with bird might not be the best combination... BUT WE
   COOKED HARD!!! 🔥🔥🔥🔥 SUPPORT  @BanzoinHakka   EVERYONE!!!!!! GOOD SINGER
+dg-publish: true
   ...
 createdAt: '2026-09-21T03:00:14.812Z'
 tags: []

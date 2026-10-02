@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Yoko Takahashi]]']
 showMovie: '[[Neon Genesis Evangelion]]'
 game: []
+dg-publish: true
 ---
 
 

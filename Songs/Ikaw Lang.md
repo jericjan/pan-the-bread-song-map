@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Nobita]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

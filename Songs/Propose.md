@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[9Lana]]', '[[Naisho no Pierced Earrings]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

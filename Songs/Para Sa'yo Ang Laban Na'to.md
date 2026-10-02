@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Manny Pacquiao]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

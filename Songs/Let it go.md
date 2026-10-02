@@ -6,6 +6,7 @@ tags: [disney]
 artist: ['[[Idina Menzel]]']
 showMovie: '[[Frozen]]'
 game: []
+dg-publish: true
 ---
 
 

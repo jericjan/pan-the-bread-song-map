@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[This Band]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

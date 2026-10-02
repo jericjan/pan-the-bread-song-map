@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[papiyon]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

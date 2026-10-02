@@ -6,6 +6,7 @@ tags: [nijisanji, OPM]
 artist: ['[[Millie Parfait]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

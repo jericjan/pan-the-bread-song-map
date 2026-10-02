@@ -12,6 +12,7 @@ iframeUrl: https://www.youtube.com/embed/MIy5Fltzgxg
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[Ochame Kinou]]

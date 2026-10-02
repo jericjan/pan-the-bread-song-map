@@ -6,6 +6,7 @@ tags: [french, english]
 artist: ['[[Édith Piaf]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

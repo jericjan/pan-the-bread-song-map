@@ -6,6 +6,7 @@ tags: [english, meme]
 artist: ['[[Cali Swag District]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

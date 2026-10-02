@@ -6,6 +6,7 @@ tags: [english, meme]
 artist: ['[[Axel F]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

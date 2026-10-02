@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Paramore]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

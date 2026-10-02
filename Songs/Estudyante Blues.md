@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Freddie Aguilar]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

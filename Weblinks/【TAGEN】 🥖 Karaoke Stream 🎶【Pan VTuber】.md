@@ -12,6 +12,7 @@ iframeUrl: https://www.youtube.com/embed/1YtL69obVbc
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 Timestamps by **@chknn00b**

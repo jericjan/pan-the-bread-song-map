@@ -6,6 +6,7 @@ tags: [c-pop]
 artist: ['[[Tian Yiming]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

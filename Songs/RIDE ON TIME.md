@@ -6,6 +6,7 @@ tags: [CityPop]
 artist: ['[[Tatsuro Yamashita]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

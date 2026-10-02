@@ -6,6 +6,7 @@ tags: [hololive, CityPop]
 artist: ['[[Houshou Marine]]', '[[Gawr Gura]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

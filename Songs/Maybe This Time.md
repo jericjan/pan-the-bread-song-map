@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Sarah Geronimo]]', '[[Dave Loggins]]', '[[Randy Goodrum]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[The Foundations]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Kitchie Nadal]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

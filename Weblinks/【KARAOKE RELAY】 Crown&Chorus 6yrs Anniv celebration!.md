@@ -11,6 +11,7 @@ iframeUrl: https://www.youtube.com/embed/7LbM-0zVe-E
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[Rewrite the Stars]]

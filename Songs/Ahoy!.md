@@ -6,6 +6,7 @@ tags: [hololive, jpop]
 artist: ['[[Houshou Marine]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

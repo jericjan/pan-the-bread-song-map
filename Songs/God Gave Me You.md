@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Bryan White]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Bonnie Tyler]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

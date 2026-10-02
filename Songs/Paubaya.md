@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Moira Dela Torre]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

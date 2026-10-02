@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[PinocchioP]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [hololive, english, korean]
 artist: ['[[Hakos Baelz]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

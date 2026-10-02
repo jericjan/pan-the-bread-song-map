@@ -6,6 +6,7 @@ tags: [UnitedTalentAgency]
 artist: ['[[Ironmouse]]', '[[Bubi]]', '[[shirobeats]]', '[[HalaCG]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

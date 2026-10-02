@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Frank Sinatra]]']
 showMovie: '[[Neon Genesis Evangelion]]'
 game: []
+dg-publish: true
 ---
 
 

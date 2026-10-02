@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Bon Jovi]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

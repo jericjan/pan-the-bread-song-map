@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Rey Valera]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

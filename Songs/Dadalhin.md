@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Regine Velasquez]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

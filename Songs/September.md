@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Earth, Wind & Fire]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

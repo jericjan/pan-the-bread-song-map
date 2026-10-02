@@ -11,6 +11,7 @@ iframeUrl: https://www.youtube.com/embed/VO3d1msDLps
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 Timestamps by me

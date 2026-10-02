@@ -6,6 +6,7 @@ tags: [WebSeries]
 artist: ['[[Rubyeye]]', '[[C!naH]]']
 showMovie: '[[Alien Stage]]'
 game: []
+dg-publish: true
 ---
 
 

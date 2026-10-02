@@ -6,6 +6,7 @@ tags: [jpop]
 artist: ['[[YOASOBI]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

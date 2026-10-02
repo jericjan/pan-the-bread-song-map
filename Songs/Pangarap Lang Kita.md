@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Parokya ni Edgar]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

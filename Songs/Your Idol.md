@@ -6,6 +6,7 @@ tags: [kpop]
 artist: ['[[Saja Boys]]']
 showMovie: '[[KPop Demon Hunters]]'
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [shitpost]
 artist: ['[[Jollibee]]']
 showMovie: '[Undertale/Deltarune](../ShowsMovies/UndertaleDeltarune.md)'
 game: []
+dg-publish: true
 ---
 
 

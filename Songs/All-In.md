@@ -6,6 +6,7 @@ tags: [WebSeries]
 artist: ['[[6FU;]]']
 showMovie: '[[Alien Stage]]'
 game: []
+dg-publish: true
 ---
 
 

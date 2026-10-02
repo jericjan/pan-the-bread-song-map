@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[lappy]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

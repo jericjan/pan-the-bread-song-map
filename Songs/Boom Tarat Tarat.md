@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Willie Revillame]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

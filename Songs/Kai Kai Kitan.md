@@ -6,6 +6,7 @@ tags: [anime, jpop]
 artist: ['[[Eve]]']
 showMovie: '[[Jujutsu Kaisen]]'
 game: []
+dg-publish: true
 ---
 
 

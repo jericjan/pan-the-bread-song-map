@@ -6,6 +6,7 @@ tags: [english]
 artist: ['[[Mac Ayres]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

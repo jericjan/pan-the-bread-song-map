@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[siinamota]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

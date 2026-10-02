@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[LamazeP]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

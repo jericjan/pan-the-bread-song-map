@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Kanaria]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

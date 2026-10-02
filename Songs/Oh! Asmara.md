@@ -6,6 +6,7 @@ tags: [hololive]
 artist: ['[[Kobo Kanaeru]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

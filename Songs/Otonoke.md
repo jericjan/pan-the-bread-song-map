@@ -6,6 +6,7 @@ tags: [anime, jpop]
 artist: ['[[Creepy Nuts]]']
 showMovie: '[[Dandadan]]'
 game: []
+dg-publish: true
 ---
 
 

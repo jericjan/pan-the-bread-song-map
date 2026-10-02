@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Unison Square Garden]]']
 showMovie: '[[Kekkai Sensen]]'
 game: []
+dg-publish: true
 ---
 
 

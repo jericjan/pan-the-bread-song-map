@@ -6,6 +6,7 @@ tags: [english, shitpost]
 artist: ['[[Juniya]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

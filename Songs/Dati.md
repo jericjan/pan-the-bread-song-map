@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Quest]]', '[[Sam Concepcion]]', '[[Tippy Dos Santos]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

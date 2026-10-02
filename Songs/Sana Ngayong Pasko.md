@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Ariel Rivera]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

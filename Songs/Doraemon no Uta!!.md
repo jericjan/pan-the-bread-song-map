@@ -6,6 +6,7 @@ tags: [anime, jpop]
 artist: ['[[Kumiko Ōsugi]]']
 showMovie: '[[Doraemon]]'
 game: []
+dg-publish: true
 ---
 
 

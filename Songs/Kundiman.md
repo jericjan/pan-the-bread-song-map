@@ -6,6 +6,7 @@ tags: [OPM]
 artist: ['[[Silent Sanctuary]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

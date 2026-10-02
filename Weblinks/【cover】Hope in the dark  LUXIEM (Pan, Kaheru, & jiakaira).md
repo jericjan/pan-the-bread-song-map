@@ -11,6 +11,7 @@ iframeUrl: https://www.youtube.com/embed/bUNBHl7CgCY
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[Hope in the dark]]

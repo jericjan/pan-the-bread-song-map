@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Giga]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

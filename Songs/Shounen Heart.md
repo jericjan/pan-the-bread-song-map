@@ -6,6 +6,7 @@ tags: [anime]
 artist: ['[[Home Made Kazoku]]']
 showMovie: '[[Eureka Seven]]'
 game: []
+dg-publish: true
 ---
 
 

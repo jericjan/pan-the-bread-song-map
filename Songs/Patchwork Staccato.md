@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[toa]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

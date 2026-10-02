@@ -11,6 +11,7 @@ iframeUrl: https://www.youtube.com/embed/SftG9wmKStY
 domain: www.youtube.com
 category: null
 topic: null
+dg-publish: true
 ---
 
 [[Mabataki]]

@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Hiiragi Kirai]]', '[[Ado]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [english, KidsSong]
 artist: ['[[The Pinkfong Company]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

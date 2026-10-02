@@ -6,6 +6,7 @@ tags: [vocaloid]
 artist: ['[[Nem]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags: [hololive]
 artist: ['[[Tsunomaki Watame]]']
 showMovie: null
 game: []
+dg-publish: true
 ---
 
 
