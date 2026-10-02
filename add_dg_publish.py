@@ -66,6 +66,10 @@ def main():
         dirs[:] = [d for d in dirs if not d.startswith('.') and d not in EXCLUDED_DIRS]
 
         for file in files:
+            # Ignore README.md if it is located in the root folder
+            if root == '.' and file.lower() == 'readme.md':
+                continue
+
             if file.endswith('.md'):
                 total_count += 1
                 filepath = os.path.join(root, file)
