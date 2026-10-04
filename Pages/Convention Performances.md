@@ -5,7 +5,7 @@ aliases: null
 description: null
 icon: null
 createdAt: '2026-09-24T15:39:39.588Z'
-lastUpdated: '2026-09-25T05:38:59.160Z'
+lastUpdated: '2026-10-04T15:24:28.187Z'
 tags: []
 coverImage: null
 dg-publish: true
@@ -21,6 +21,11 @@ dg-publish: true
 ## Cosmania - Oct 1 2023
 
 [kantatero the bread 【COSMANIA】](https://www.youtube.com/watch?v=cNV_Dhvw36o)[[kantatero the bread 【COSMANIA】|kantatero the bread 【COSMANIA】 - Notes]]
+
+## Cosmatsu - Dec 28-30, 2023
+
+[[Cosmatsu 2023 Songs]]
+
 
 ## Cosmania - Oct 4-6 2024
 
