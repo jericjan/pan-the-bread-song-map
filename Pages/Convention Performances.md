@@ -5,7 +5,7 @@ aliases: null
 description: null
 icon: null
 createdAt: '2026-09-24T15:39:39.588Z'
-lastUpdated: '2026-10-04T15:24:28.187Z'
+lastUpdated: '2026-11-01T12:41:06.338Z'
 tags: []
 coverImage: null
 dg-publish: true
@@ -34,9 +34,13 @@ dg-publish: true
 
 ## OshiCon - Aug 16 2026
 
-[【OSHI CON PERFORMANCE】 🥖 WE SINGING BEER ON THIS ONE 🍻](https://www.youtube.com/watch?v=ViSbTb3tk4Q)[[【OSHI CON PERFORMANCE】 🥖 WE SINGING BEER ON THIS ONE 🍻|【OSHI CON PERFORMANCE】 🥖 WE SINGING BEER ON THIS ONE 🍻  - Notes]]
+[[【OSHI CON PERFORMANCE】 🥖 WE SINGING BEER ON THIS ONE 🍻]]
 
 ## MikuFes - Sep 6 2026
 
 [MIKUFES 2026 (SEPT. 6, 2026, 3:24PM) Pan's performance onstage.](../Weblinks/MIKUFES%202026%20(SEPT%206,%202026,%20324PM)%20Pan's%20performance%20onstage.md)
+
+
+
+## [[Loot Fair 2026]]
 

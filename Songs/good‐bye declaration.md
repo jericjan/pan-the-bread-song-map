@@ -1,6 +1,6 @@
 ---
 type: 'Song'
-title: "good‐bye declaration\r\n"
+title: good‐bye declaration
 aliases: null
 tags: [vocaloid]
 artist: ['[[Chinozo]]']

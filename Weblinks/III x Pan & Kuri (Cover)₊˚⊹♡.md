@@ -14,6 +14,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/0PwD3AYQPso.webp)
+
 [[III]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=0PwD3AYQPso)

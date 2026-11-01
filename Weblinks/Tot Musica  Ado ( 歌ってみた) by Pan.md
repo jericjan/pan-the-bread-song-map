@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/XP3VYK7I5Ug.webp)
+
 [[Tot Musica]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=XP3VYK7I5Ug)

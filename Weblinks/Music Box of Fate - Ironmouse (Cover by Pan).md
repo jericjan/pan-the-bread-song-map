@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/-oPEOh8iZWI.webp)
+
 [[Music Box of Fate]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=-oPEOh8iZWI)

@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/SnrkP863a5Q.webp)
+
 [[How It's Done]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=SnrkP863a5Q)

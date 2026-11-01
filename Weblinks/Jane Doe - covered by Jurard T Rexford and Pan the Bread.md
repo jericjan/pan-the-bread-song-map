@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/8ffc5kKvGIY.webp)
+
 [[Jane Doe]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=8ffc5kKvGIY)

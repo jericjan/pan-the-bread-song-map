@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/NdgNNbIKPPo.webp)
+
 [Mr. Music](../Songs/Mr%20Music.md)
 
 [OPEN LINK](https://www.youtube.com/watch?v=NdgNNbIKPPo)

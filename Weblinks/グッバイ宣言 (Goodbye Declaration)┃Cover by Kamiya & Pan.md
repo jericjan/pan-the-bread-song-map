@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/no7AMSvFiIE.webp)
+
 [[good‐bye declaration]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=no7AMSvFiIE)

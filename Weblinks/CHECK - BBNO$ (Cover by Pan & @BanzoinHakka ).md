@@ -14,6 +14,8 @@ domain: www.youtube.com
 category: null
 topic: null
 ---
+![](Images/Media/4GCwvbK8iW0.webp)
+
 [[check]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=4GCwvbK8iW0)

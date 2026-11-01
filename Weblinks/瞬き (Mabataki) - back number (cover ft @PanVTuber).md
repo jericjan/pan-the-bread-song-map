@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/SftG9wmKStY.webp)
+
 [[Mabataki]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=SftG9wmKStY)

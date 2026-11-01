@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/CC1Itah2ouI.webp)
+
 [[Pasilyo]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=CC1Itah2ouI)

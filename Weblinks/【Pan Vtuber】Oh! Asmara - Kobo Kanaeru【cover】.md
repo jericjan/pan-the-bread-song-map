@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/uAQNvxI8OQ4.webp)
+
 [[Oh! Asmara]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=uAQNvxI8OQ4)

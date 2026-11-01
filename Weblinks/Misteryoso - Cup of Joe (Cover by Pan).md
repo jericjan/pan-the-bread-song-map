@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/CbTs9x85WlU.webp)
+
 [[Misteryoso]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=CbTs9x85WlU)

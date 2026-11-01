@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/1LLsaRKC2sQ.webp)
+
 [[Pano]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=1LLsaRKC2sQ)

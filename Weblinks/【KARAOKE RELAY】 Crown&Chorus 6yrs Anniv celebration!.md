@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/7LbM-0zVe-E.webp)
+
 [[Rewrite the Stars]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=7LbM-0zVe-E)

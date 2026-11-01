@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/bUNBHl7CgCY.webp)
+
 [[Hope in the dark]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=bUNBHl7CgCY)

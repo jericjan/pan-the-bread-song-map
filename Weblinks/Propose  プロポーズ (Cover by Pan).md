@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/Y-sNsi7-FZg.webp)
+
 [[Propose]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=Y-sNsi7-FZg)

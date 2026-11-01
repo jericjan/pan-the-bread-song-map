@@ -13,6 +13,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/Moydyvw4H_Y.webp)
+
 [[Welcome to The Bakery!]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=Moydyvw4H_Y)

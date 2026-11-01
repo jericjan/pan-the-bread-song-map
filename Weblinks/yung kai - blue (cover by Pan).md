@@ -14,6 +14,8 @@ category: null
 topic: null
 dg-publish: true
 ---
+![](Images/Media/qBYvkqlGUZU.webp)
+
 [[Blue]]
 
 [OPEN LINK](https://www.youtube.com/watch?v=qBYvkqlGUZU)
