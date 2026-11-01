@@ -59,7 +59,7 @@ def process_weblink_file(filepath):
 
     # Preserve newline formatting
     newline = '\r\n' if '\r\n' in content else '\n'
-    new_content = f"---{newline}{fm_raw}{newline}---{new_body}"
+    new_content = f"---{newline}{fm_raw}{newline}---{newline}{new_body}"
 
     if new_content != content:
         with open(filepath, 'w', encoding='utf-8') as f:
