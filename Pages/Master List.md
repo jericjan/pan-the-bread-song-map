@@ -11,6 +11,7 @@ coverImage:
 dg-publish: true
 dg-home: true
 ---
+
 # Just OPM
 ```dataview
 TABLE 
